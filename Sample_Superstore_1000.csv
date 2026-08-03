@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+ORD-10001,2023-07-13,Customer 45,Home Office,USA,New York,New York,East,Technology,Accessories,Accessories Model 532,259.99,3,0.0,56.98
+ORD-10002,2023-10-28,Customer 280,Corporate,USA,New York,New York,East,Furniture,Chairs,Chairs Model 325,248.01,10,0.0,47.2
+ORD-10003,2022-12-11,Customer 53,Consumer,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 489,704.18,6,0.2,-7.84
+ORD-10004,2023-01-23,Customer 41,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 400,279.23,1,0.3,9.51
+ORD-10005,2022-08-27,Customer 52,Corporate,USA,Houston,Texas,Central,Technology,Phones,Phones Model 384,64.91,4,0.2,12.74
+ORD-10006,2022-06-25,Customer 274,Home Office,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 350,368.17,5,0.0,74.47
+ORD-10007,2022-02-27,Customer 118,Consumer,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 924,989.73,9,0.1,169.4
+ORD-10008,2023-05-27,Customer 203,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 569,226.76,10,0.2,0.72
+ORD-10009,2023-03-15,Customer 299,Corporate,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 470,750.09,9,0.2,102.58
+ORD-10010,2022-06-13,Customer 217,Home Office,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 165,109.09,1,0.0,9.62
+ORD-10011,2022-04-28,Customer 275,Corporate,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 887,538.53,9,0.0,118.51
+ORD-10012,2022-07-02,Customer 260,Consumer,USA,Houston,Texas,Central,Office Supplies,Paper,Paper Model 991,174.99,1,0.2,33.77
+ORD-10013,2023-05-16,Customer 10,Consumer,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 471,767.26,9,0.0,153.25
+ORD-10014,2022-03-12,Customer 273,Consumer,USA,Houston,Texas,Central,Furniture,Chairs,Chairs Model 231,880.45,2,0.0,205.12
+ORD-10015,2023-12-08,Customer 103,Home Office,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 419,874.98,7,0.1,203.2
+ORD-10016,2022-01-22,Customer 284,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 702,462.46,4,0.1,7.4
+ORD-10017,2022-12-05,Customer 37,Home Office,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 343,638.48,4,0.0,176.45
+ORD-10018,2023-04-30,Customer 209,Consumer,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 196,149.67,10,0.3,-5.87
+ORD-10019,2022-12-14,Customer 56,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 296,422.88,1,0.0,27.55
+ORD-10020,2022-03-19,Customer 227,Home Office,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 200,199.82,8,0.1,43.68
+ORD-10021,2023-02-15,Customer 31,Consumer,USA,New York,New York,East,Furniture,Chairs,Chairs Model 488,182.98,8,0.3,-8.52
+ORD-10022,2022-10-31,Customer 112,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 693,299.54,9,0.3,-18.36
+ORD-10023,2023-06-05,Customer 42,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 170,592.49,9,0.1,8.43
+ORD-10024,2022-02-10,Customer 42,Corporate,USA,New York,New York,East,Office Supplies,Binders,Binders Model 773,942.76,10,0.1,136.45
+ORD-10025,2023-11-19,Customer 154,Corporate,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 423,721.87,4,0.2,35.33
+ORD-10026,2023-06-03,Customer 136,Consumer,USA,New York,New York,East,Office Supplies,Storage,Storage Model 457,998.49,2,0.0,184.13
+ORD-10027,2023-11-01,Customer 271,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 783,174.59,9,0.2,17.97
+ORD-10028,2023-09-12,Customer 108,Home Office,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 451,133.12,2,0.1,9.06
+ORD-10029,2022-10-11,Customer 23,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 441,266.1,1,0.0,55.5
+ORD-10030,2023-12-09,Customer 77,Home Office,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 136,453.0,7,0.0,35.32
+ORD-10031,2022-08-04,Customer 128,Home Office,USA,Houston,Texas,Central,Office Supplies,Binders,Binders Model 205,60.99,6,0.0,16.76
+ORD-10032,2022-07-01,Customer 212,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 283,171.46,4,0.1,41.85
+ORD-10033,2022-04-21,Customer 196,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 979,814.53,5,0.1,160.34
+ORD-10034,2022-07-17,Customer 205,Corporate,USA,Miami,Florida,South,Furniture,Tables,Tables Model 385,362.67,4,0.1,2.15
+ORD-10035,2022-04-29,Customer 134,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 694,519.22,9,0.2,95.96
+ORD-10036,2023-06-08,Customer 60,Corporate,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 690,445.87,6,0.3,22.99
+ORD-10037,2022-03-13,Customer 170,Home Office,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 421,447.34,9,0.1,40.73
+ORD-10038,2023-07-22,Customer 66,Consumer,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 530,673.56,6,0.3,50.05
+ORD-10039,2022-08-04,Customer 221,Home Office,USA,Miami,Florida,South,Technology,Machines,Machines Model 721,314.93,9,0.0,39.67
+ORD-10040,2022-06-23,Customer 44,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 627,682.11,9,0.3,67.14
+ORD-10041,2022-09-08,Customer 244,Home Office,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 970,324.21,4,0.1,1.98
+ORD-10042,2022-06-01,Customer 3,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 897,584.16,7,0.3,-0.05
+ORD-10043,2022-05-05,Customer 234,Consumer,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 920,527.6,1,0.1,121.01
+ORD-10044,2023-07-16,Customer 229,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 861,818.71,9,0.3,88.13
+ORD-10045,2022-10-09,Customer 226,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 830,843.07,5,0.3,47.79
+ORD-10046,2022-08-25,Customer 197,Home Office,USA,Houston,Texas,Central,Office Supplies,Paper,Paper Model 256,333.32,9,0.0,28.2
+ORD-10047,2023-03-07,Customer 200,Home Office,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 812,344.26,8,0.3,-29.07
+ORD-10048,2023-03-06,Customer 276,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 852,943.89,5,0.3,107.0
+ORD-10049,2023-11-27,Customer 208,Home Office,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 269,447.12,1,0.3,-7.14
+ORD-10050,2023-03-15,Customer 70,Corporate,USA,Miami,Florida,South,Technology,Machines,Machines Model 286,46.43,7,0.0,3.3
+ORD-10051,2023-01-24,Customer 143,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 358,227.43,6,0.2,31.91
+ORD-10052,2023-10-30,Customer 21,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 353,548.63,6,0.1,89.17
+ORD-10053,2022-08-12,Customer 239,Home Office,USA,Los Angeles,California,West,Technology,Phones,Phones Model 362,253.77,8,0.0,48.47
+ORD-10054,2022-04-21,Customer 297,Consumer,USA,Houston,Texas,Central,Technology,Machines,Machines Model 419,964.46,2,0.1,232.61
+ORD-10055,2022-11-05,Customer 62,Home Office,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 901,94.48,4,0.0,21.19
+ORD-10056,2023-03-07,Customer 251,Consumer,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 543,668.29,2,0.2,-31.3
+ORD-10057,2023-07-06,Customer 248,Corporate,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 546,446.78,9,0.2,46.46
+ORD-10058,2023-08-07,Customer 195,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 129,293.35,8,0.1,55.04
+ORD-10059,2023-09-03,Customer 142,Home Office,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 110,227.88,5,0.2,4.54
+ORD-10060,2023-10-24,Customer 252,Corporate,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 911,418.3,9,0.1,72.22
+ORD-10061,2023-01-13,Customer 243,Home Office,USA,New York,New York,East,Office Supplies,Binders,Binders Model 643,416.31,4,0.2,48.29
+ORD-10062,2022-08-25,Customer 62,Home Office,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 297,344.18,8,0.2,9.17
+ORD-10063,2023-05-11,Customer 142,Home Office,USA,Houston,Texas,Central,Technology,Machines,Machines Model 703,951.86,3,0.1,51.49
+ORD-10064,2023-07-01,Customer 65,Corporate,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 146,242.93,3,0.2,-11.29
+ORD-10065,2023-08-11,Customer 146,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 590,645.11,8,0.0,173.01
+ORD-10066,2023-02-15,Customer 252,Consumer,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 690,267.43,8,0.0,68.34
+ORD-10067,2023-03-03,Customer 116,Home Office,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 489,950.14,2,0.1,28.14
+ORD-10068,2022-04-12,Customer 107,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 316,990.23,5,0.0,200.43
+ORD-10069,2023-04-07,Customer 241,Corporate,USA,Houston,Texas,Central,Furniture,Chairs,Chairs Model 133,190.34,2,0.1,0.13
+ORD-10070,2022-09-28,Customer 102,Corporate,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 217,708.93,8,0.0,157.27
+ORD-10071,2023-08-06,Customer 148,Corporate,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 227,89.98,3,0.2,8.89
+ORD-10072,2023-09-05,Customer 21,Corporate,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 852,943.82,9,0.3,8.91
+ORD-10073,2023-11-20,Customer 138,Home Office,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 141,244.35,10,0.0,73.28
+ORD-10074,2023-03-23,Customer 252,Consumer,USA,Seattle,Washington,West,Technology,Machines,Machines Model 581,453.38,5,0.1,113.0
+ORD-10075,2023-05-23,Customer 148,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 510,676.73,3,0.2,35.81
+ORD-10076,2022-01-02,Customer 278,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 523,267.35,2,0.3,31.07
+ORD-10077,2022-07-28,Customer 137,Home Office,USA,New York,New York,East,Technology,Accessories,Accessories Model 234,630.18,8,0.3,56.71
+ORD-10078,2022-11-15,Customer 283,Consumer,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 665,139.0,10,0.1,24.66
+ORD-10079,2022-10-26,Customer 261,Home Office,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 379,472.22,2,0.1,58.84
+ORD-10080,2023-09-06,Customer 261,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 239,467.65,3,0.3,-24.48
+ORD-10081,2022-10-17,Customer 153,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 693,935.56,9,0.2,145.14
+ORD-10082,2022-11-26,Customer 97,Home Office,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 344,494.65,6,0.3,6.84
+ORD-10083,2023-11-11,Customer 78,Corporate,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 137,331.81,8,0.3,-1.15
+ORD-10084,2023-02-24,Customer 80,Consumer,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 580,117.72,8,0.0,27.15
+ORD-10085,2023-07-01,Customer 195,Corporate,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 741,409.53,2,0.2,66.79
+ORD-10086,2023-03-21,Customer 51,Home Office,USA,Miami,Florida,South,Technology,Phones,Phones Model 820,250.07,5,0.1,46.69
+ORD-10087,2022-02-27,Customer 151,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 483,313.48,1,0.0,41.1
+ORD-10088,2023-09-17,Customer 196,Home Office,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 799,423.81,3,0.1,18.55
+ORD-10089,2022-01-10,Customer 239,Corporate,USA,Seattle,Washington,West,Technology,Phones,Phones Model 793,247.54,5,0.3,-8.95
+ORD-10090,2023-04-13,Customer 155,Consumer,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 493,987.9,5,0.3,71.7
+ORD-10091,2022-10-30,Customer 12,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 505,580.48,10,0.2,115.04
+ORD-10092,2022-10-21,Customer 118,Home Office,USA,Houston,Texas,Central,Technology,Machines,Machines Model 921,782.75,1,0.3,84.7
+ORD-10093,2023-10-24,Customer 21,Corporate,USA,Houston,Texas,Central,Technology,Phones,Phones Model 907,628.47,3,0.0,173.36
+ORD-10094,2023-03-02,Customer 90,Consumer,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 235,737.71,2,0.2,23.37
+ORD-10095,2022-12-13,Customer 59,Corporate,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 177,915.77,8,0.2,125.13
+ORD-10096,2023-02-09,Customer 8,Corporate,USA,Los Angeles,California,West,Technology,Machines,Machines Model 649,680.92,7,0.2,-18.67
+ORD-10097,2023-01-16,Customer 56,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 339,754.03,5,0.3,79.63
+ORD-10098,2023-10-13,Customer 238,Home Office,USA,Miami,Florida,South,Technology,Machines,Machines Model 409,341.45,10,0.1,55.29
+ORD-10099,2022-08-29,Customer 276,Consumer,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 497,947.34,5,0.3,-67.23
+ORD-10100,2022-06-08,Customer 213,Home Office,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 201,702.55,9,0.3,32.9
+ORD-10101,2022-08-30,Customer 186,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 802,696.48,4,0.3,7.78
+ORD-10102,2022-08-06,Customer 11,Consumer,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 905,290.36,2,0.3,-22.38
+ORD-10103,2022-08-27,Customer 169,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 907,221.1,9,0.1,32.41
+ORD-10104,2022-01-27,Customer 68,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 466,549.41,3,0.0,118.27
+ORD-10105,2022-03-07,Customer 244,Corporate,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 896,280.06,3,0.3,8.83
+ORD-10106,2023-11-06,Customer 267,Corporate,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 569,237.12,10,0.0,54.97
+ORD-10107,2023-03-31,Customer 38,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 429,437.75,2,0.3,34.19
+ORD-10108,2023-09-04,Customer 272,Corporate,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 564,631.83,10,0.2,28.58
+ORD-10109,2022-08-22,Customer 212,Corporate,USA,Miami,Florida,South,Technology,Phones,Phones Model 947,855.74,9,0.1,92.01
+ORD-10110,2023-01-19,Customer 79,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 585,113.18,7,0.2,13.16
+ORD-10111,2023-08-24,Customer 288,Home Office,USA,New York,New York,East,Furniture,Chairs,Chairs Model 437,443.24,6,0.1,61.65
+ORD-10112,2023-09-07,Customer 160,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 206,942.31,7,0.0,275.25
+ORD-10113,2023-01-12,Customer 59,Corporate,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 687,239.76,2,0.2,38.68
+ORD-10114,2023-11-05,Customer 137,Consumer,USA,Seattle,Washington,West,Technology,Machines,Machines Model 284,621.3,9,0.0,125.66
+ORD-10115,2023-10-11,Customer 16,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 864,25.98,3,0.3,-2.15
+ORD-10116,2023-08-05,Customer 44,Consumer,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 259,354.08,6,0.2,46.17
+ORD-10117,2023-03-01,Customer 140,Consumer,USA,Los Angeles,California,West,Technology,Phones,Phones Model 873,286.66,7,0.3,14.84
+ORD-10118,2022-11-12,Customer 24,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 504,297.58,10,0.3,9.44
+ORD-10119,2022-05-03,Customer 4,Corporate,USA,New York,New York,East,Furniture,Tables,Tables Model 864,946.42,3,0.2,21.16
+ORD-10120,2022-02-13,Customer 224,Consumer,USA,Miami,Florida,South,Furniture,Tables,Tables Model 570,541.93,4,0.2,-17.33
+ORD-10121,2022-01-22,Customer 167,Consumer,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 920,581.93,7,0.2,-12.34
+ORD-10122,2023-06-21,Customer 41,Corporate,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 991,847.59,4,0.3,40.02
+ORD-10123,2022-07-18,Customer 179,Corporate,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 844,783.54,2,0.0,143.11
+ORD-10124,2023-11-03,Customer 39,Consumer,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 891,270.85,3,0.1,51.48
+ORD-10125,2023-10-05,Customer 162,Consumer,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 550,459.93,10,0.2,76.38
+ORD-10126,2022-03-17,Customer 159,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 562,316.76,5,0.0,43.71
+ORD-10127,2023-07-22,Customer 22,Corporate,USA,New York,New York,East,Office Supplies,Paper,Paper Model 929,95.2,2,0.3,1.49
+ORD-10128,2022-12-18,Customer 44,Home Office,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 761,511.34,1,0.3,-37.9
+ORD-10129,2022-10-17,Customer 199,Corporate,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 893,449.0,8,0.1,40.85
+ORD-10130,2023-01-31,Customer 146,Corporate,USA,Houston,Texas,Central,Technology,Machines,Machines Model 841,347.96,6,0.0,65.94
+ORD-10131,2023-12-17,Customer 201,Consumer,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 709,670.34,6,0.2,128.65
+ORD-10132,2023-12-03,Customer 270,Consumer,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 761,650.62,6,0.1,109.0
+ORD-10133,2023-05-13,Customer 99,Consumer,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 240,322.69,4,0.2,60.32
+ORD-10134,2023-09-25,Customer 68,Home Office,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 485,517.54,9,0.0,111.52
+ORD-10135,2023-01-09,Customer 122,Corporate,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 725,775.68,3,0.3,-69.1
+ORD-10136,2023-08-08,Customer 226,Corporate,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 887,254.39,8,0.1,23.39
+ORD-10137,2022-05-22,Customer 129,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 756,430.29,3,0.1,86.19
+ORD-10138,2022-06-14,Customer 140,Corporate,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 625,717.17,9,0.0,86.97
+ORD-10139,2023-02-10,Customer 258,Corporate,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 341,820.37,6,0.0,126.11
+ORD-10140,2022-05-21,Customer 20,Corporate,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 949,47.62,2,0.2,7.04
+ORD-10141,2022-08-09,Customer 77,Home Office,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 844,459.63,1,0.0,25.17
+ORD-10142,2023-09-30,Customer 235,Consumer,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 213,315.13,1,0.1,33.07
+ORD-10143,2023-09-22,Customer 181,Consumer,USA,Miami,Florida,South,Technology,Machines,Machines Model 684,583.55,3,0.2,33.44
+ORD-10144,2023-07-12,Customer 260,Home Office,USA,Miami,Florida,South,Technology,Machines,Machines Model 667,103.9,6,0.0,29.96
+ORD-10145,2023-01-01,Customer 35,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 346,642.96,6,0.2,87.98
+ORD-10146,2023-12-03,Customer 238,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 590,365.25,6,0.1,75.82
+ORD-10147,2022-02-14,Customer 103,Consumer,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 423,780.67,8,0.0,96.3
+ORD-10148,2022-02-18,Customer 170,Corporate,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 227,268.25,4,0.2,10.53
+ORD-10149,2023-05-24,Customer 255,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 916,450.94,7,0.2,87.23
+ORD-10150,2022-11-25,Customer 53,Consumer,USA,Houston,Texas,Central,Technology,Accessories,Accessories Model 435,97.35,10,0.1,13.28
+ORD-10151,2022-02-13,Customer 181,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 545,723.31,3,0.3,-8.76
+ORD-10152,2022-05-27,Customer 225,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 229,644.76,6,0.1,153.58
+ORD-10153,2023-11-27,Customer 231,Corporate,USA,New York,New York,East,Technology,Accessories,Accessories Model 480,374.91,10,0.0,75.46
+ORD-10154,2022-09-13,Customer 59,Consumer,USA,Miami,Florida,South,Technology,Phones,Phones Model 853,538.87,7,0.2,60.56
+ORD-10155,2023-12-22,Customer 229,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 726,915.27,2,0.2,131.56
+ORD-10156,2024-01-01,Customer 228,Consumer,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 929,153.01,2,0.3,-8.7
+ORD-10157,2023-12-30,Customer 90,Corporate,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 620,559.0,5,0.2,91.03
+ORD-10158,2023-08-10,Customer 189,Corporate,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 922,252.0,8,0.0,35.34
+ORD-10159,2023-08-12,Customer 38,Consumer,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 424,410.2,8,0.3,37.86
+ORD-10160,2022-05-13,Customer 222,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 989,527.01,3,0.1,101.16
+ORD-10161,2022-08-19,Customer 178,Home Office,USA,New York,New York,East,Technology,Phones,Phones Model 390,318.04,3,0.2,58.42
+ORD-10162,2023-09-22,Customer 274,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 614,957.22,5,0.1,149.57
+ORD-10163,2023-08-01,Customer 22,Consumer,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 183,631.99,10,0.2,101.52
+ORD-10164,2023-10-05,Customer 280,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 757,771.62,7,0.0,134.66
+ORD-10165,2022-06-11,Customer 226,Corporate,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 595,417.97,8,0.0,92.85
+ORD-10166,2022-05-14,Customer 190,Home Office,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 675,160.8,6,0.2,31.17
+ORD-10167,2022-02-21,Customer 149,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 984,140.07,8,0.1,4.93
+ORD-10168,2023-05-26,Customer 264,Corporate,USA,Miami,Florida,South,Furniture,Tables,Tables Model 610,935.08,6,0.1,178.39
+ORD-10169,2022-08-09,Customer 299,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 149,946.33,9,0.3,134.07
+ORD-10170,2022-04-21,Customer 221,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 370,884.69,8,0.2,74.47
+ORD-10171,2022-10-23,Customer 38,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 616,412.57,10,0.1,37.39
+ORD-10172,2022-12-14,Customer 286,Corporate,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 873,618.82,3,0.0,91.88
+ORD-10173,2024-01-01,Customer 171,Corporate,USA,Los Angeles,California,West,Technology,Machines,Machines Model 631,413.36,1,0.0,24.69
+ORD-10174,2023-09-24,Customer 154,Home Office,USA,Miami,Florida,South,Technology,Machines,Machines Model 444,156.99,10,0.2,-1.47
+ORD-10175,2023-12-06,Customer 14,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 585,380.99,2,0.3,17.5
+ORD-10176,2023-11-29,Customer 125,Consumer,USA,Houston,Texas,Central,Technology,Phones,Phones Model 686,591.85,3,0.3,-37.32
+ORD-10177,2023-02-25,Customer 257,Home Office,USA,New York,New York,East,Furniture,Tables,Tables Model 582,327.42,3,0.3,23.78
+ORD-10178,2022-06-27,Customer 236,Home Office,USA,New York,New York,East,Technology,Phones,Phones Model 450,569.67,8,0.3,-12.28
+ORD-10179,2022-08-19,Customer 153,Corporate,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 821,208.42,4,0.2,18.66
+ORD-10180,2023-11-24,Customer 279,Corporate,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 504,361.83,5,0.2,-7.07
+ORD-10181,2023-11-03,Customer 132,Home Office,USA,Houston,Texas,Central,Office Supplies,Binders,Binders Model 590,301.88,2,0.2,54.64
+ORD-10182,2023-08-24,Customer 123,Consumer,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 151,934.36,5,0.1,25.51
+ORD-10183,2022-05-21,Customer 3,Home Office,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 261,425.04,8,0.0,93.64
+ORD-10184,2022-03-02,Customer 46,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 687,215.47,5,0.2,4.6
+ORD-10185,2023-02-11,Customer 254,Consumer,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 866,884.6,3,0.0,264.75
+ORD-10186,2023-10-19,Customer 279,Home Office,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 605,576.6,2,0.2,12.19
+ORD-10187,2023-10-26,Customer 132,Home Office,USA,Seattle,Washington,West,Office Supplies,Binders,Binders Model 290,812.64,6,0.1,148.53
+ORD-10188,2023-10-17,Customer 208,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 627,680.91,4,0.1,104.0
+ORD-10189,2022-09-12,Customer 4,Corporate,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 492,113.48,3,0.3,-2.17
+ORD-10190,2023-01-04,Customer 121,Consumer,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 783,315.91,10,0.0,36.45
+ORD-10191,2023-10-17,Customer 152,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 729,417.31,9,0.2,51.15
+ORD-10192,2023-07-17,Customer 242,Home Office,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 921,170.12,10,0.2,9.18
+ORD-10193,2023-01-06,Customer 40,Home Office,USA,Los Angeles,California,West,Technology,Machines,Machines Model 214,875.67,2,0.3,28.06
+ORD-10194,2022-07-30,Customer 299,Corporate,USA,New York,New York,East,Technology,Machines,Machines Model 193,166.86,6,0.3,-11.84
+ORD-10195,2023-11-20,Customer 158,Home Office,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 122,522.98,8,0.0,99.21
+ORD-10196,2023-12-19,Customer 33,Home Office,USA,Atlanta,Georgia,South,Furniture,Bookcases,Bookcases Model 161,233.54,2,0.0,36.41
+ORD-10197,2023-01-27,Customer 230,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 484,420.69,3,0.3,-2.69
+ORD-10198,2022-08-17,Customer 2,Consumer,USA,New York,New York,East,Technology,Accessories,Accessories Model 405,136.26,9,0.3,4.39
+ORD-10199,2022-10-10,Customer 97,Home Office,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 883,826.89,4,0.3,-11.13
+ORD-10200,2022-04-14,Customer 18,Corporate,USA,New York,New York,East,Technology,Accessories,Accessories Model 712,622.62,1,0.1,32.08
+ORD-10201,2022-02-27,Customer 72,Home Office,USA,New York,New York,East,Technology,Phones,Phones Model 396,414.22,4,0.1,78.12
+ORD-10202,2022-05-27,Customer 267,Consumer,USA,Seattle,Washington,West,Technology,Machines,Machines Model 523,777.09,6,0.1,58.62
+ORD-10203,2022-02-18,Customer 177,Home Office,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 787,949.55,3,0.3,37.0
+ORD-10204,2023-07-05,Customer 243,Consumer,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 969,420.09,5,0.3,-22.7
+ORD-10205,2023-07-25,Customer 272,Consumer,USA,Seattle,Washington,West,Technology,Phones,Phones Model 497,809.66,1,0.3,114.93
+ORD-10206,2022-07-15,Customer 27,Corporate,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 486,653.77,8,0.2,-17.58
+ORD-10207,2022-12-07,Customer 156,Consumer,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 316,729.82,9,0.1,87.47
+ORD-10208,2022-09-03,Customer 283,Corporate,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 894,916.15,10,0.1,90.84
+ORD-10209,2023-05-25,Customer 239,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 922,655.75,5,0.2,26.17
+ORD-10210,2022-01-17,Customer 134,Home Office,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 698,326.66,1,0.1,60.53
+ORD-10211,2023-11-02,Customer 173,Corporate,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 881,343.27,7,0.1,42.85
+ORD-10212,2023-07-14,Customer 251,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 655,738.12,6,0.1,25.83
+ORD-10213,2023-10-08,Customer 119,Consumer,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 824,67.54,1,0.3,-4.43
+ORD-10214,2022-01-17,Customer 4,Home Office,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 664,466.89,1,0.3,30.26
+ORD-10215,2023-12-16,Customer 221,Consumer,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 209,727.75,9,0.2,-33.27
+ORD-10216,2023-02-11,Customer 41,Corporate,USA,New York,New York,East,Furniture,Chairs,Chairs Model 515,627.39,5,0.2,10.56
+ORD-10217,2023-01-24,Customer 194,Home Office,USA,Miami,Florida,South,Technology,Phones,Phones Model 587,313.98,2,0.0,23.04
+ORD-10218,2022-04-08,Customer 271,Consumer,USA,New York,New York,East,Technology,Phones,Phones Model 335,101.03,7,0.2,9.24
+ORD-10219,2022-11-19,Customer 9,Consumer,USA,Seattle,Washington,West,Office Supplies,Binders,Binders Model 701,925.68,5,0.0,87.79
+ORD-10220,2023-07-08,Customer 170,Corporate,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 873,179.2,4,0.3,12.41
+ORD-10221,2022-03-19,Customer 175,Home Office,USA,Los Angeles,California,West,Technology,Machines,Machines Model 887,974.84,1,0.0,155.26
+ORD-10222,2023-07-21,Customer 193,Corporate,USA,Atlanta,Georgia,South,Furniture,Bookcases,Bookcases Model 290,287.86,8,0.3,-12.37
+ORD-10223,2023-01-25,Customer 79,Home Office,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 498,802.09,2,0.0,93.84
+ORD-10224,2022-10-04,Customer 53,Consumer,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 189,25.09,5,0.3,-0.25
+ORD-10225,2022-12-29,Customer 284,Consumer,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 711,563.65,7,0.0,31.88
+ORD-10226,2022-06-23,Customer 195,Consumer,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 242,425.53,2,0.1,60.85
+ORD-10227,2022-11-03,Customer 248,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 469,163.02,3,0.3,-5.06
+ORD-10228,2022-05-19,Customer 156,Consumer,USA,Houston,Texas,Central,Technology,Machines,Machines Model 505,505.89,10,0.1,57.91
+ORD-10229,2023-09-10,Customer 103,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 421,348.04,10,0.1,26.14
+ORD-10230,2022-10-15,Customer 202,Corporate,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 216,740.18,8,0.1,60.3
+ORD-10231,2022-10-26,Customer 36,Corporate,USA,Los Angeles,California,West,Technology,Machines,Machines Model 789,46.38,8,0.1,5.08
+ORD-10232,2022-03-17,Customer 230,Home Office,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 590,257.18,3,0.3,25.02
+ORD-10233,2022-09-12,Customer 182,Consumer,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 762,794.91,6,0.0,61.48
+ORD-10234,2023-06-16,Customer 286,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 804,123.83,2,0.2,0.68
+ORD-10235,2022-01-26,Customer 248,Consumer,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 402,473.8,10,0.1,40.86
+ORD-10236,2022-07-31,Customer 267,Corporate,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 456,158.84,5,0.2,10.14
+ORD-10237,2023-12-29,Customer 59,Consumer,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 969,702.83,6,0.0,87.9
+ORD-10238,2022-12-05,Customer 287,Corporate,USA,Houston,Texas,Central,Technology,Phones,Phones Model 573,931.32,4,0.1,128.5
+ORD-10239,2023-09-21,Customer 102,Corporate,USA,Seattle,Washington,West,Technology,Phones,Phones Model 706,202.66,7,0.3,-18.79
+ORD-10240,2023-07-04,Customer 96,Corporate,USA,Atlanta,Georgia,South,Furniture,Bookcases,Bookcases Model 433,230.5,5,0.0,44.79
+ORD-10241,2023-09-18,Customer 201,Home Office,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 216,677.29,8,0.2,67.22
+ORD-10242,2022-11-17,Customer 61,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 412,189.08,5,0.0,41.22
+ORD-10243,2023-08-12,Customer 197,Corporate,USA,New York,New York,East,Office Supplies,Storage,Storage Model 290,158.53,7,0.3,7.78
+ORD-10244,2023-04-07,Customer 28,Corporate,USA,Miami,Florida,South,Technology,Phones,Phones Model 109,499.85,3,0.1,39.31
+ORD-10245,2023-05-19,Customer 213,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 960,964.55,9,0.3,2.2
+ORD-10246,2022-08-19,Customer 276,Corporate,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 272,574.09,4,0.2,-24.01
+ORD-10247,2023-01-11,Customer 278,Consumer,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 878,130.95,2,0.2,18.83
+ORD-10248,2022-02-03,Customer 231,Corporate,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 456,741.27,4,0.2,125.05
+ORD-10249,2023-09-17,Customer 220,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 730,225.68,10,0.2,37.3
+ORD-10250,2022-06-22,Customer 166,Home Office,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 399,578.67,9,0.2,57.41
+ORD-10251,2022-10-11,Customer 65,Home Office,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 986,818.88,3,0.3,106.2
+ORD-10252,2023-08-15,Customer 138,Home Office,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 524,335.65,4,0.3,7.51
+ORD-10253,2022-10-12,Customer 189,Corporate,USA,Atlanta,Georgia,South,Furniture,Bookcases,Bookcases Model 599,798.71,2,0.3,23.09
+ORD-10254,2023-07-02,Customer 204,Consumer,USA,Houston,Texas,Central,Technology,Phones,Phones Model 539,736.31,8,0.2,119.67
+ORD-10255,2023-05-12,Customer 176,Home Office,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 880,831.78,6,0.1,117.73
+ORD-10256,2022-06-11,Customer 226,Corporate,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 100,788.21,8,0.0,63.89
+ORD-10257,2022-10-08,Customer 48,Home Office,USA,Miami,Florida,South,Technology,Phones,Phones Model 469,884.5,5,0.1,193.36
+ORD-10258,2022-11-09,Customer 120,Corporate,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 771,905.72,3,0.0,135.03
+ORD-10259,2023-04-01,Customer 5,Consumer,USA,New York,New York,East,Furniture,Chairs,Chairs Model 812,487.27,3,0.1,63.28
+ORD-10260,2022-04-15,Customer 53,Corporate,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 476,149.53,2,0.1,14.32
+ORD-10261,2022-01-09,Customer 85,Corporate,USA,Houston,Texas,Central,Office Supplies,Binders,Binders Model 459,648.74,3,0.0,118.48
+ORD-10262,2022-05-24,Customer 64,Home Office,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 847,692.83,4,0.0,189.94
+ORD-10263,2022-09-12,Customer 284,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 714,795.26,4,0.2,88.4
+ORD-10264,2022-10-30,Customer 28,Consumer,USA,Houston,Texas,Central,Technology,Accessories,Accessories Model 606,221.34,10,0.1,41.38
+ORD-10265,2022-11-21,Customer 68,Corporate,USA,Miami,Florida,South,Furniture,Tables,Tables Model 981,645.32,2,0.0,191.48
+ORD-10266,2022-03-11,Customer 8,Corporate,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 320,189.31,8,0.0,10.26
+ORD-10267,2023-02-16,Customer 43,Home Office,USA,New York,New York,East,Office Supplies,Storage,Storage Model 649,300.76,9,0.3,1.77
+ORD-10268,2023-02-05,Customer 34,Corporate,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 815,97.44,4,0.1,13.07
+ORD-10269,2023-09-16,Customer 29,Corporate,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 782,104.49,7,0.0,17.07
+ORD-10270,2022-12-22,Customer 268,Home Office,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 901,154.47,1,0.1,19.17
+ORD-10271,2022-01-31,Customer 172,Corporate,USA,Houston,Texas,Central,Office Supplies,Binders,Binders Model 378,754.78,5,0.0,183.3
+ORD-10272,2022-02-26,Customer 256,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Machines,Machines Model 270,634.98,8,0.3,17.59
+ORD-10273,2022-01-03,Customer 23,Consumer,USA,Houston,Texas,Central,Office Supplies,Binders,Binders Model 350,896.38,2,0.1,166.01
+ORD-10274,2023-11-03,Customer 215,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 429,921.82,3,0.0,173.5
+ORD-10275,2023-11-21,Customer 27,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 328,285.83,2,0.2,-5.76
+ORD-10276,2023-04-13,Customer 5,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 305,868.71,5,0.2,-24.67
+ORD-10277,2022-07-20,Customer 280,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 254,257.73,6,0.3,38.52
+ORD-10278,2023-11-05,Customer 193,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 844,550.71,1,0.2,-27.33
+ORD-10279,2022-05-26,Customer 144,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 144,983.45,7,0.3,137.97
+ORD-10280,2023-10-15,Customer 202,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 706,469.29,2,0.0,82.76
+ORD-10281,2023-02-07,Customer 168,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 563,252.04,5,0.2,45.75
+ORD-10282,2022-06-18,Customer 231,Corporate,USA,Houston,Texas,Central,Furniture,Chairs,Chairs Model 421,153.39,10,0.0,13.63
+ORD-10283,2022-09-29,Customer 62,Consumer,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 261,965.34,4,0.3,-22.13
+ORD-10284,2022-02-20,Customer 154,Corporate,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 939,165.36,4,0.2,8.11
+ORD-10285,2022-04-15,Customer 72,Consumer,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 112,564.83,9,0.1,13.38
+ORD-10286,2022-09-23,Customer 39,Consumer,USA,New York,New York,East,Furniture,Chairs,Chairs Model 166,827.2,6,0.0,161.78
+ORD-10287,2023-04-18,Customer 26,Consumer,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 687,906.98,6,0.0,55.03
+ORD-10288,2022-07-11,Customer 141,Corporate,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 556,395.07,7,0.1,34.96
+ORD-10289,2023-07-18,Customer 246,Consumer,USA,Los Angeles,California,West,Technology,Machines,Machines Model 189,624.64,5,0.3,1.87
+ORD-10290,2023-07-11,Customer 10,Corporate,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 900,215.47,9,0.1,33.98
+ORD-10291,2022-07-04,Customer 14,Corporate,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 711,357.15,10,0.2,16.82
+ORD-10292,2022-08-27,Customer 82,Consumer,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 353,812.48,8,0.2,115.14
+ORD-10293,2022-06-27,Customer 91,Consumer,USA,Seattle,Washington,West,Technology,Machines,Machines Model 706,74.79,4,0.3,-0.85
+ORD-10294,2022-07-12,Customer 253,Home Office,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 416,709.38,6,0.1,99.86
+ORD-10295,2023-05-05,Customer 1,Corporate,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 728,75.04,10,0.1,0.37
+ORD-10296,2023-08-24,Customer 73,Consumer,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 966,193.91,6,0.0,10.76
+ORD-10297,2022-11-27,Customer 70,Consumer,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 849,943.08,7,0.0,126.51
+ORD-10298,2023-08-27,Customer 90,Corporate,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 414,190.72,9,0.2,1.11
+ORD-10299,2023-08-05,Customer 17,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 716,21.76,10,0.3,2.45
+ORD-10300,2022-03-21,Customer 122,Corporate,USA,Houston,Texas,Central,Technology,Machines,Machines Model 427,122.03,8,0.1,10.1
+ORD-10301,2022-08-03,Customer 128,Home Office,USA,Los Angeles,California,West,Technology,Machines,Machines Model 169,646.32,6,0.3,-62.79
+ORD-10302,2022-06-20,Customer 212,Corporate,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 487,21.26,7,0.3,1.77
+ORD-10303,2022-03-17,Customer 18,Corporate,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 120,792.96,10,0.1,32.25
+ORD-10304,2023-07-15,Customer 48,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 708,354.97,7,0.1,64.96
+ORD-10305,2022-12-06,Customer 106,Consumer,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 519,181.7,7,0.1,2.43
+ORD-10306,2023-01-05,Customer 2,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 189,114.0,7,0.3,-7.02
+ORD-10307,2023-04-30,Customer 60,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 903,45.22,3,0.2,8.78
+ORD-10308,2023-01-26,Customer 190,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 556,279.7,9,0.3,-15.04
+ORD-10309,2023-12-15,Customer 50,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 784,278.13,5,0.0,24.41
+ORD-10310,2023-12-05,Customer 244,Home Office,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 341,562.53,7,0.3,79.55
+ORD-10311,2023-04-05,Customer 89,Consumer,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 316,904.72,1,0.1,27.21
+ORD-10312,2023-10-05,Customer 76,Home Office,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 364,96.8,7,0.1,24.13
+ORD-10313,2023-06-17,Customer 235,Consumer,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 905,565.24,9,0.2,92.79
+ORD-10314,2023-07-31,Customer 52,Corporate,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 988,165.24,10,0.0,46.47
+ORD-10315,2022-10-10,Customer 207,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 733,661.69,10,0.3,-59.97
+ORD-10316,2023-01-17,Customer 11,Corporate,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 937,696.7,1,0.3,90.72
+ORD-10317,2023-03-30,Customer 165,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 846,861.07,2,0.1,28.93
+ORD-10318,2023-01-18,Customer 29,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 910,227.16,7,0.3,20.42
+ORD-10319,2022-07-25,Customer 30,Consumer,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 133,516.66,3,0.0,48.27
+ORD-10320,2023-10-13,Customer 64,Home Office,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 131,215.13,6,0.3,5.65
+ORD-10321,2022-09-22,Customer 47,Corporate,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 128,457.18,8,0.2,16.49
+ORD-10322,2023-11-25,Customer 106,Corporate,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 767,784.23,4,0.1,126.92
+ORD-10323,2022-01-09,Customer 115,Corporate,USA,Miami,Florida,South,Technology,Phones,Phones Model 722,484.62,3,0.1,72.83
+ORD-10324,2022-11-06,Customer 267,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 506,854.55,8,0.2,3.89
+ORD-10325,2022-04-21,Customer 247,Consumer,USA,New York,New York,East,Technology,Machines,Machines Model 444,967.16,6,0.2,23.81
+ORD-10326,2022-09-04,Customer 30,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 513,663.0,5,0.1,24.85
+ORD-10327,2023-02-19,Customer 199,Home Office,USA,Houston,Texas,Central,Technology,Phones,Phones Model 136,662.29,5,0.2,117.05
+ORD-10328,2023-11-19,Customer 184,Home Office,USA,Seattle,Washington,West,Technology,Machines,Machines Model 407,237.92,9,0.3,30.13
+ORD-10329,2022-12-10,Customer 46,Consumer,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 463,481.37,5,0.1,113.96
+ORD-10330,2022-05-01,Customer 241,Consumer,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 987,384.25,10,0.2,25.34
+ORD-10331,2022-06-04,Customer 71,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 450,137.42,7,0.2,7.32
+ORD-10332,2023-10-09,Customer 91,Corporate,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 749,865.15,3,0.0,148.72
+ORD-10333,2022-04-01,Customer 67,Home Office,USA,New York,New York,East,Office Supplies,Paper,Paper Model 544,225.19,3,0.1,27.56
+ORD-10334,2022-01-15,Customer 165,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 295,395.65,1,0.1,72.27
+ORD-10335,2023-01-28,Customer 258,Home Office,USA,New York,New York,East,Technology,Machines,Machines Model 413,263.85,6,0.2,-4.69
+ORD-10336,2023-12-05,Customer 69,Corporate,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 601,949.49,8,0.2,55.47
+ORD-10337,2022-01-23,Customer 259,Consumer,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 226,38.74,4,0.1,2.05
+ORD-10338,2022-02-19,Customer 56,Home Office,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 956,270.67,9,0.0,53.72
+ORD-10339,2023-05-01,Customer 79,Consumer,USA,New York,New York,East,Technology,Phones,Phones Model 811,428.44,7,0.0,80.04
+ORD-10340,2023-12-19,Customer 71,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 950,118.96,9,0.2,12.57
+ORD-10341,2022-09-27,Customer 268,Consumer,USA,New York,New York,East,Office Supplies,Binders,Binders Model 466,789.06,8,0.1,120.13
+ORD-10342,2022-01-03,Customer 7,Home Office,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 191,557.18,4,0.3,-9.67
+ORD-10343,2023-10-22,Customer 119,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 403,783.94,2,0.0,216.52
+ORD-10344,2023-11-25,Customer 161,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 856,816.91,1,0.2,32.72
+ORD-10345,2023-03-25,Customer 138,Home Office,USA,New York,New York,East,Furniture,Chairs,Chairs Model 195,854.96,3,0.2,33.67
+ORD-10346,2023-12-08,Customer 245,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 764,412.76,8,0.2,65.6
+ORD-10347,2023-08-28,Customer 248,Home Office,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 794,731.88,3,0.0,112.71
+ORD-10348,2022-05-14,Customer 248,Corporate,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 215,783.58,10,0.0,208.15
+ORD-10349,2023-11-26,Customer 269,Home Office,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 690,276.38,6,0.0,62.5
+ORD-10350,2022-09-12,Customer 247,Corporate,USA,Seattle,Washington,West,Technology,Machines,Machines Model 779,694.48,10,0.0,109.88
+ORD-10351,2022-06-19,Customer 39,Corporate,USA,Miami,Florida,South,Technology,Machines,Machines Model 428,73.47,3,0.3,8.3
+ORD-10352,2022-08-29,Customer 41,Corporate,USA,Seattle,Washington,West,Office Supplies,Binders,Binders Model 554,516.79,9,0.3,0.42
+ORD-10353,2023-02-27,Customer 19,Home Office,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 662,329.74,8,0.0,24.95
+ORD-10354,2023-04-13,Customer 175,Corporate,USA,New York,New York,East,Technology,Machines,Machines Model 945,644.79,9,0.1,105.52
+ORD-10355,2023-01-08,Customer 232,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 199,568.95,10,0.3,45.04
+ORD-10356,2022-02-16,Customer 85,Corporate,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 243,833.29,5,0.2,104.6
+ORD-10357,2022-07-15,Customer 174,Consumer,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 875,212.0,2,0.3,-9.77
+ORD-10358,2023-06-01,Customer 69,Corporate,USA,Miami,Florida,South,Technology,Machines,Machines Model 104,597.03,8,0.3,38.58
+ORD-10359,2022-05-12,Customer 54,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 773,925.88,3,0.1,169.09
+ORD-10360,2022-12-18,Customer 151,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 924,917.59,4,0.2,45.39
+ORD-10361,2023-07-15,Customer 161,Home Office,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 854,706.01,9,0.2,113.5
+ORD-10362,2023-10-28,Customer 92,Home Office,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 655,720.1,6,0.1,176.66
+ORD-10363,2023-07-01,Customer 147,Corporate,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 927,490.76,10,0.3,33.65
+ORD-10364,2022-06-14,Customer 147,Home Office,USA,New York,New York,East,Furniture,Tables,Tables Model 356,162.42,1,0.1,10.84
+ORD-10365,2023-04-09,Customer 53,Home Office,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 988,219.92,9,0.0,30.72
+ORD-10366,2023-02-01,Customer 214,Home Office,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 420,788.62,5,0.0,222.09
+ORD-10367,2023-12-23,Customer 189,Home Office,USA,New York,New York,East,Technology,Accessories,Accessories Model 659,219.03,8,0.1,49.91
+ORD-10368,2023-06-11,Customer 62,Corporate,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 141,193.88,2,0.1,46.65
+ORD-10369,2023-04-23,Customer 80,Consumer,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 257,147.47,10,0.2,-7.17
+ORD-10370,2023-07-18,Customer 184,Consumer,USA,Houston,Texas,Central,Technology,Machines,Machines Model 902,846.28,5,0.3,82.49
+ORD-10371,2023-07-04,Customer 207,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 457,86.81,9,0.1,9.03
+ORD-10372,2023-09-26,Customer 272,Corporate,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 674,344.45,5,0.1,81.83
+ORD-10373,2023-11-30,Customer 165,Corporate,USA,New York,New York,East,Technology,Accessories,Accessories Model 915,456.75,10,0.1,109.49
+ORD-10374,2023-06-05,Customer 229,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 144,729.5,1,0.2,57.32
+ORD-10375,2023-07-05,Customer 274,Consumer,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 741,100.7,2,0.1,24.46
+ORD-10376,2023-12-21,Customer 223,Home Office,USA,New York,New York,East,Technology,Machines,Machines Model 936,778.11,7,0.0,78.9
+ORD-10377,2022-07-02,Customer 129,Home Office,USA,New York,New York,East,Furniture,Tables,Tables Model 172,722.53,1,0.0,49.36
+ORD-10378,2023-02-03,Customer 61,Home Office,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 106,462.1,7,0.3,-9.66
+ORD-10379,2023-12-04,Customer 155,Home Office,USA,New York,New York,East,Technology,Phones,Phones Model 188,370.55,9,0.0,45.38
+ORD-10380,2022-08-14,Customer 70,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 500,825.68,1,0.3,-50.3
+ORD-10381,2023-07-23,Customer 73,Consumer,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 142,889.24,6,0.0,167.52
+ORD-10382,2022-12-19,Customer 109,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Machines,Machines Model 761,948.04,5,0.1,177.35
+ORD-10383,2023-11-19,Customer 291,Consumer,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 971,624.55,5,0.1,17.9
+ORD-10384,2023-05-14,Customer 170,Corporate,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 231,86.02,2,0.1,15.6
+ORD-10385,2022-12-03,Customer 157,Home Office,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 698,88.41,4,0.2,6.32
+ORD-10386,2023-12-31,Customer 224,Corporate,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 960,185.27,6,0.1,36.39
+ORD-10387,2022-11-09,Customer 250,Home Office,USA,Houston,Texas,Central,Technology,Machines,Machines Model 211,344.93,8,0.3,3.91
+ORD-10388,2023-10-04,Customer 40,Home Office,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 177,893.47,4,0.2,119.18
+ORD-10389,2023-07-19,Customer 134,Home Office,USA,New York,New York,East,Technology,Machines,Machines Model 652,417.03,10,0.1,94.49
+ORD-10390,2023-05-29,Customer 262,Consumer,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 506,238.84,10,0.2,-3.95
+ORD-10391,2022-05-24,Customer 229,Consumer,USA,Houston,Texas,Central,Technology,Phones,Phones Model 283,851.02,10,0.1,161.1
+ORD-10392,2023-01-14,Customer 120,Consumer,USA,Seattle,Washington,West,Office Supplies,Binders,Binders Model 784,234.44,8,0.1,3.68
+ORD-10393,2022-11-28,Customer 53,Home Office,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 633,919.54,1,0.0,271.4
+ORD-10394,2023-11-01,Customer 40,Home Office,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 357,578.76,7,0.3,-5.02
+ORD-10395,2023-09-11,Customer 4,Home Office,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 242,365.84,6,0.3,35.91
+ORD-10396,2022-06-11,Customer 186,Home Office,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 834,524.25,5,0.1,19.69
+ORD-10397,2023-08-28,Customer 83,Home Office,USA,New York,New York,East,Office Supplies,Paper,Paper Model 953,725.85,8,0.3,14.34
+ORD-10398,2023-06-09,Customer 21,Home Office,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 250,145.33,10,0.1,4.89
+ORD-10399,2023-11-09,Customer 146,Consumer,USA,New York,New York,East,Office Supplies,Binders,Binders Model 321,526.31,7,0.0,141.91
+ORD-10400,2022-07-06,Customer 262,Corporate,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 271,234.98,7,0.1,46.68
+ORD-10401,2022-01-17,Customer 104,Home Office,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 980,87.47,7,0.3,-5.86
+ORD-10402,2023-06-29,Customer 258,Consumer,USA,Miami,Florida,South,Technology,Phones,Phones Model 195,193.87,10,0.0,52.24
+ORD-10403,2022-02-14,Customer 272,Corporate,USA,Miami,Florida,South,Technology,Machines,Machines Model 334,830.97,7,0.3,-6.15
+ORD-10404,2022-09-18,Customer 245,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 979,808.53,10,0.0,126.43
+ORD-10405,2022-01-08,Customer 296,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Machines,Machines Model 220,420.47,4,0.0,95.57
+ORD-10406,2022-06-08,Customer 219,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 699,694.01,6,0.3,-6.55
+ORD-10407,2023-02-11,Customer 105,Corporate,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 665,573.38,10,0.2,113.5
+ORD-10408,2023-12-24,Customer 204,Home Office,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 241,563.81,5,0.2,53.23
+ORD-10409,2022-12-13,Customer 282,Home Office,USA,New York,New York,East,Office Supplies,Storage,Storage Model 813,950.26,2,0.1,120.76
+ORD-10410,2023-09-07,Customer 223,Consumer,USA,New York,New York,East,Office Supplies,Storage,Storage Model 165,25.18,2,0.1,2.97
+ORD-10411,2023-06-18,Customer 147,Home Office,USA,Houston,Texas,Central,Office Supplies,Binders,Binders Model 711,616.85,7,0.3,33.0
+ORD-10412,2023-09-06,Customer 262,Home Office,USA,New York,New York,East,Technology,Accessories,Accessories Model 815,450.19,4,0.2,-0.59
+ORD-10413,2022-10-10,Customer 205,Corporate,USA,Los Angeles,California,West,Technology,Phones,Phones Model 785,372.55,1,0.1,8.09
+ORD-10414,2023-07-27,Customer 299,Corporate,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 455,527.39,2,0.0,98.83
+ORD-10415,2023-02-21,Customer 260,Consumer,USA,Houston,Texas,Central,Technology,Phones,Phones Model 672,465.66,7,0.0,53.68
+ORD-10416,2023-01-22,Customer 289,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 888,806.88,5,0.2,99.69
+ORD-10417,2022-09-22,Customer 35,Corporate,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 748,471.51,10,0.0,80.39
+ORD-10418,2022-09-27,Customer 128,Corporate,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 195,956.34,9,0.0,215.37
+ORD-10419,2023-08-11,Customer 138,Consumer,USA,Atlanta,Georgia,South,Furniture,Bookcases,Bookcases Model 864,932.77,8,0.2,35.8
+ORD-10420,2022-07-27,Customer 128,Home Office,USA,Seattle,Washington,West,Technology,Phones,Phones Model 464,250.16,4,0.2,0.42
+ORD-10421,2023-07-09,Customer 22,Corporate,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 480,682.3,8,0.0,164.48
+ORD-10422,2023-08-14,Customer 66,Consumer,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 638,500.99,9,0.2,24.78
+ORD-10423,2022-05-04,Customer 266,Corporate,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 423,512.43,7,0.1,58.57
+ORD-10424,2022-09-23,Customer 96,Home Office,USA,New York,New York,East,Technology,Phones,Phones Model 369,391.84,2,0.2,15.83
+ORD-10425,2023-03-06,Customer 191,Corporate,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 974,356.23,3,0.3,2.13
+ORD-10426,2022-10-04,Customer 121,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 542,579.98,10,0.1,118.05
+ORD-10427,2022-05-18,Customer 265,Home Office,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 837,166.56,1,0.1,17.55
+ORD-10428,2023-12-09,Customer 84,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 320,570.9,10,0.0,85.41
+ORD-10429,2023-07-28,Customer 286,Corporate,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 452,460.86,6,0.2,18.55
+ORD-10430,2023-10-28,Customer 276,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 899,870.02,10,0.1,125.47
+ORD-10431,2022-10-21,Customer 238,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 248,520.24,8,0.0,75.57
+ORD-10432,2022-12-18,Customer 117,Corporate,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 424,620.06,7,0.0,43.27
+ORD-10433,2023-06-18,Customer 231,Corporate,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 271,407.55,8,0.2,55.82
+ORD-10434,2023-02-11,Customer 53,Consumer,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 165,249.93,5,0.0,25.65
+ORD-10435,2022-06-09,Customer 44,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 499,533.5,2,0.0,61.68
+ORD-10436,2022-06-24,Customer 15,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 779,298.49,3,0.1,39.31
+ORD-10437,2022-05-19,Customer 277,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 705,975.48,9,0.2,85.0
+ORD-10438,2022-08-21,Customer 46,Corporate,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 415,646.74,5,0.2,45.54
+ORD-10439,2023-04-26,Customer 274,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 804,317.5,1,0.1,27.3
+ORD-10440,2023-07-16,Customer 192,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 521,770.55,5,0.1,153.49
+ORD-10441,2022-03-23,Customer 217,Home Office,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 345,720.64,7,0.3,-32.32
+ORD-10442,2022-03-12,Customer 94,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 396,541.31,5,0.3,-28.69
+ORD-10443,2022-01-20,Customer 78,Consumer,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 647,286.69,10,0.3,-15.21
+ORD-10444,2022-06-04,Customer 8,Corporate,USA,New York,New York,East,Furniture,Tables,Tables Model 322,283.81,8,0.0,30.71
+ORD-10445,2022-05-30,Customer 29,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 894,998.0,8,0.0,132.3
+ORD-10446,2022-05-05,Customer 128,Corporate,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 889,197.97,5,0.3,21.2
+ORD-10447,2023-11-29,Customer 160,Corporate,USA,Miami,Florida,South,Technology,Phones,Phones Model 262,215.2,2,0.1,25.44
+ORD-10448,2023-11-14,Customer 112,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 341,645.75,4,0.2,110.99
+ORD-10449,2022-09-06,Customer 5,Consumer,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 695,798.5,10,0.0,118.94
+ORD-10450,2022-12-13,Customer 31,Consumer,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 464,263.75,8,0.0,58.42
+ORD-10451,2023-03-26,Customer 99,Consumer,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 805,248.02,9,0.2,37.55
+ORD-10452,2023-07-27,Customer 151,Home Office,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 813,265.68,1,0.3,20.37
+ORD-10453,2023-09-06,Customer 284,Consumer,USA,Miami,Florida,South,Technology,Phones,Phones Model 170,552.75,6,0.3,-17.23
+ORD-10454,2023-06-03,Customer 195,Home Office,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 289,550.77,8,0.0,134.38
+ORD-10455,2023-12-01,Customer 255,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 257,334.28,2,0.3,-17.56
+ORD-10456,2022-05-13,Customer 92,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 306,335.58,2,0.0,20.45
+ORD-10457,2023-12-20,Customer 132,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 475,51.18,7,0.3,1.61
+ORD-10458,2022-03-04,Customer 185,Home Office,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 861,662.63,2,0.3,66.43
+ORD-10459,2022-11-08,Customer 40,Consumer,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 631,827.17,5,0.0,193.21
+ORD-10460,2022-09-12,Customer 292,Home Office,USA,New York,New York,East,Technology,Phones,Phones Model 283,541.03,4,0.1,71.17
+ORD-10461,2022-06-20,Customer 93,Home Office,USA,Miami,Florida,South,Technology,Machines,Machines Model 511,370.8,8,0.3,44.76
+ORD-10462,2022-11-29,Customer 191,Corporate,USA,Houston,Texas,Central,Technology,Machines,Machines Model 882,454.15,6,0.2,39.75
+ORD-10463,2022-09-18,Customer 185,Corporate,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 558,571.88,4,0.3,52.29
+ORD-10464,2022-11-06,Customer 4,Corporate,USA,Miami,Florida,South,Technology,Phones,Phones Model 327,983.3,10,0.0,176.41
+ORD-10465,2023-04-17,Customer 183,Consumer,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 241,825.89,9,0.1,19.47
+ORD-10466,2023-08-06,Customer 112,Home Office,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 179,248.33,5,0.0,47.83
+ORD-10467,2022-11-04,Customer 20,Home Office,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 927,829.19,10,0.0,164.85
+ORD-10468,2022-05-04,Customer 117,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 768,360.97,7,0.3,47.85
+ORD-10469,2023-12-16,Customer 114,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 151,533.9,6,0.1,43.62
+ORD-10470,2023-02-08,Customer 76,Consumer,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 444,514.63,4,0.3,-14.18
+ORD-10471,2023-05-29,Customer 223,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Machines,Machines Model 233,68.32,7,0.2,-1.96
+ORD-10472,2023-06-21,Customer 127,Consumer,USA,Seattle,Washington,West,Technology,Phones,Phones Model 173,498.1,10,0.1,69.88
+ORD-10473,2023-03-10,Customer 188,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 295,925.66,2,0.0,201.74
+ORD-10474,2023-09-24,Customer 227,Home Office,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 249,43.72,5,0.1,10.8
+ORD-10475,2022-02-25,Customer 125,Home Office,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 251,691.65,3,0.0,54.01
+ORD-10476,2022-12-06,Customer 108,Home Office,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 650,808.2,5,0.3,14.38
+ORD-10477,2022-05-25,Customer 10,Corporate,USA,Los Angeles,California,West,Technology,Machines,Machines Model 696,755.35,9,0.3,42.12
+ORD-10478,2023-11-02,Customer 5,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 497,298.33,10,0.2,-10.96
+ORD-10479,2023-06-05,Customer 51,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 596,306.65,7,0.1,75.11
+ORD-10480,2023-06-27,Customer 157,Corporate,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 601,967.46,9,0.0,57.99
+ORD-10481,2023-05-29,Customer 142,Consumer,USA,Miami,Florida,South,Furniture,Tables,Tables Model 740,690.63,6,0.2,6.25
+ORD-10482,2023-02-07,Customer 71,Consumer,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 847,950.13,4,0.1,81.19
+ORD-10483,2022-12-04,Customer 230,Home Office,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 234,581.44,7,0.2,103.17
+ORD-10484,2023-12-24,Customer 269,Consumer,USA,Los Angeles,California,West,Technology,Machines,Machines Model 540,690.37,4,0.1,53.33
+ORD-10485,2022-05-30,Customer 16,Corporate,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 523,566.19,2,0.1,44.96
+ORD-10486,2022-04-20,Customer 68,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 126,935.09,5,0.1,182.13
+ORD-10487,2023-05-04,Customer 69,Home Office,USA,Houston,Texas,Central,Technology,Phones,Phones Model 966,246.29,1,0.2,-7.42
+ORD-10488,2022-02-03,Customer 210,Consumer,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 376,501.62,3,0.1,24.24
+ORD-10489,2023-03-26,Customer 251,Home Office,USA,Miami,Florida,South,Technology,Machines,Machines Model 432,988.48,4,0.0,93.18
+ORD-10490,2023-02-08,Customer 293,Home Office,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 649,780.69,10,0.3,62.49
+ORD-10491,2023-02-10,Customer 21,Home Office,USA,New York,New York,East,Office Supplies,Paper,Paper Model 496,830.47,1,0.1,107.69
+ORD-10492,2023-03-09,Customer 151,Home Office,USA,New York,New York,East,Office Supplies,Paper,Paper Model 155,410.08,5,0.2,26.79
+ORD-10493,2023-08-23,Customer 280,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 502,108.63,9,0.0,10.31
+ORD-10494,2022-04-03,Customer 129,Corporate,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 808,195.3,10,0.1,43.09
+ORD-10495,2023-01-29,Customer 262,Home Office,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 263,712.1,6,0.0,128.86
+ORD-10496,2022-05-29,Customer 92,Home Office,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 152,914.01,10,0.1,37.05
+ORD-10497,2022-05-01,Customer 68,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 103,773.26,8,0.2,82.44
+ORD-10498,2023-05-21,Customer 122,Consumer,USA,Houston,Texas,Central,Office Supplies,Paper,Paper Model 702,858.3,9,0.0,173.37
+ORD-10499,2023-07-15,Customer 143,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 743,97.82,10,0.0,10.88
+ORD-10500,2022-02-03,Customer 296,Home Office,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 405,73.96,6,0.0,6.39
+ORD-10501,2023-09-18,Customer 294,Home Office,USA,Houston,Texas,Central,Furniture,Chairs,Chairs Model 281,428.62,3,0.1,72.02
+ORD-10502,2022-03-11,Customer 219,Home Office,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 166,773.14,6,0.2,134.82
+ORD-10503,2023-06-22,Customer 108,Home Office,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 314,700.73,5,0.2,57.29
+ORD-10504,2023-12-07,Customer 148,Corporate,USA,New York,New York,East,Technology,Machines,Machines Model 723,979.76,9,0.0,167.46
+ORD-10505,2023-05-24,Customer 267,Home Office,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 747,995.12,6,0.1,152.82
+ORD-10506,2022-01-25,Customer 239,Home Office,USA,Atlanta,Georgia,South,Furniture,Bookcases,Bookcases Model 915,248.07,5,0.1,0.1
+ORD-10507,2023-10-15,Customer 109,Consumer,USA,New York,New York,East,Technology,Accessories,Accessories Model 755,425.76,6,0.2,38.36
+ORD-10508,2022-04-27,Customer 171,Corporate,USA,Seattle,Washington,West,Office Supplies,Binders,Binders Model 505,321.62,9,0.2,45.59
+ORD-10509,2023-10-24,Customer 70,Corporate,USA,New York,New York,East,Furniture,Tables,Tables Model 259,837.15,8,0.3,83.14
+ORD-10510,2023-11-26,Customer 162,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 648,929.23,1,0.2,84.78
+ORD-10511,2022-10-15,Customer 16,Corporate,USA,New York,New York,East,Technology,Machines,Machines Model 484,345.08,6,0.0,100.9
+ORD-10512,2022-10-06,Customer 212,Consumer,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 608,134.51,5,0.2,17.14
+ORD-10513,2022-02-08,Customer 104,Consumer,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 554,231.82,5,0.1,6.5
+ORD-10514,2022-05-27,Customer 51,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 792,206.41,8,0.2,29.7
+ORD-10515,2022-02-15,Customer 45,Corporate,USA,Los Angeles,California,West,Technology,Phones,Phones Model 578,470.18,9,0.0,23.99
+ORD-10516,2022-08-03,Customer 165,Consumer,USA,New York,New York,East,Technology,Machines,Machines Model 297,750.64,1,0.2,82.35
+ORD-10517,2022-10-08,Customer 59,Consumer,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 737,777.33,2,0.2,-9.85
+ORD-10518,2022-10-18,Customer 294,Consumer,USA,New York,New York,East,Technology,Accessories,Accessories Model 275,558.38,5,0.1,131.68
+ORD-10519,2023-11-23,Customer 26,Consumer,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 492,549.77,1,0.1,3.98
+ORD-10520,2022-11-16,Customer 171,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 830,195.4,10,0.3,10.57
+ORD-10521,2023-12-02,Customer 239,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 337,111.06,8,0.0,18.2
+ORD-10522,2023-11-13,Customer 170,Corporate,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 564,914.6,7,0.1,159.97
+ORD-10523,2022-10-17,Customer 179,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 688,130.63,8,0.3,14.56
+ORD-10524,2023-06-30,Customer 237,Corporate,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 704,800.82,6,0.0,198.69
+ORD-10525,2022-08-02,Customer 221,Corporate,USA,Miami,Florida,South,Technology,Phones,Phones Model 680,556.99,8,0.3,-46.5
+ORD-10526,2023-09-03,Customer 238,Corporate,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 668,676.21,10,0.3,-48.29
+ORD-10527,2023-09-03,Customer 195,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 606,956.77,2,0.0,211.81
+ORD-10528,2023-04-09,Customer 273,Corporate,USA,New York,New York,East,Furniture,Chairs,Chairs Model 499,889.52,1,0.1,146.97
+ORD-10529,2023-03-22,Customer 177,Consumer,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 696,879.88,5,0.2,158.05
+ORD-10530,2023-07-28,Customer 184,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 981,81.16,9,0.0,4.08
+ORD-10531,2023-02-20,Customer 196,Corporate,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 658,708.18,7,0.2,90.61
+ORD-10532,2022-06-07,Customer 148,Home Office,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 228,204.46,7,0.2,32.71
+ORD-10533,2022-05-20,Customer 44,Consumer,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 757,35.39,8,0.3,5.09
+ORD-10534,2023-03-11,Customer 283,Corporate,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 493,931.7,10,0.1,105.84
+ORD-10535,2022-08-31,Customer 257,Corporate,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 520,612.48,10,0.3,68.41
+ORD-10536,2023-12-09,Customer 41,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 847,493.6,6,0.0,96.29
+ORD-10537,2023-10-08,Customer 40,Home Office,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 748,532.89,10,0.0,59.31
+ORD-10538,2023-04-26,Customer 294,Home Office,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 439,782.96,8,0.3,22.05
+ORD-10539,2023-08-01,Customer 134,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 744,184.16,10,0.2,24.26
+ORD-10540,2022-03-26,Customer 65,Home Office,USA,Miami,Florida,South,Technology,Phones,Phones Model 178,663.19,5,0.0,80.71
+ORD-10541,2023-09-11,Customer 90,Home Office,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 856,295.35,5,0.0,69.51
+ORD-10542,2023-06-25,Customer 17,Corporate,USA,Seattle,Washington,West,Office Supplies,Binders,Binders Model 186,276.03,4,0.3,-15.13
+ORD-10543,2022-06-21,Customer 108,Home Office,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 851,774.96,4,0.3,63.16
+ORD-10544,2023-02-13,Customer 244,Corporate,USA,Houston,Texas,Central,Technology,Accessories,Accessories Model 587,760.37,2,0.0,69.88
+ORD-10545,2023-03-22,Customer 7,Corporate,USA,Seattle,Washington,West,Technology,Machines,Machines Model 916,402.27,5,0.1,53.35
+ORD-10546,2023-10-15,Customer 182,Corporate,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 725,962.53,1,0.0,268.96
+ORD-10547,2023-11-23,Customer 124,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 788,806.27,5,0.3,12.32
+ORD-10548,2022-03-11,Customer 7,Corporate,USA,Seattle,Washington,West,Technology,Machines,Machines Model 200,993.35,6,0.0,216.75
+ORD-10549,2023-09-27,Customer 48,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 708,730.75,5,0.1,6.22
+ORD-10550,2023-10-26,Customer 290,Consumer,USA,Los Angeles,California,West,Technology,Phones,Phones Model 213,104.66,10,0.1,9.84
+ORD-10551,2022-10-11,Customer 219,Home Office,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 783,667.27,2,0.3,87.19
+ORD-10552,2022-03-03,Customer 133,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 282,291.74,1,0.3,-0.83
+ORD-10553,2023-07-08,Customer 221,Consumer,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 728,618.1,3,0.3,-45.05
+ORD-10554,2022-09-14,Customer 229,Consumer,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 609,121.22,2,0.0,23.38
+ORD-10555,2023-08-12,Customer 2,Home Office,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 824,402.67,3,0.2,70.93
+ORD-10556,2023-12-07,Customer 247,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 680,847.17,2,0.1,0.7
+ORD-10557,2022-12-15,Customer 42,Corporate,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 878,412.6,2,0.2,34.52
+ORD-10558,2023-02-04,Customer 55,Home Office,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 805,58.54,7,0.1,4.37
+ORD-10559,2022-01-26,Customer 123,Corporate,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 498,449.22,4,0.1,4.01
+ORD-10560,2022-02-27,Customer 173,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 143,965.65,8,0.0,57.23
+ORD-10561,2022-08-27,Customer 37,Consumer,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 853,673.97,8,0.1,124.86
+ORD-10562,2023-10-27,Customer 67,Consumer,USA,Seattle,Washington,West,Technology,Phones,Phones Model 276,481.8,10,0.0,53.32
+ORD-10563,2022-04-19,Customer 59,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 709,619.0,10,0.0,157.5
+ORD-10564,2023-12-02,Customer 295,Home Office,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 240,350.6,7,0.2,-6.94
+ORD-10565,2023-03-02,Customer 87,Home Office,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 478,189.98,2,0.0,22.51
+ORD-10566,2022-01-17,Customer 250,Consumer,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 106,59.88,2,0.3,5.65
+ORD-10567,2023-05-03,Customer 65,Consumer,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 246,658.72,5,0.3,48.33
+ORD-10568,2023-05-27,Customer 46,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 946,939.33,10,0.0,186.99
+ORD-10569,2022-04-08,Customer 186,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 619,566.56,4,0.0,168.07
+ORD-10570,2022-06-02,Customer 243,Corporate,USA,Seattle,Washington,West,Technology,Machines,Machines Model 280,223.95,1,0.1,6.31
+ORD-10571,2023-09-24,Customer 233,Consumer,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 206,376.91,4,0.3,-14.0
+ORD-10572,2023-04-01,Customer 297,Corporate,USA,New York,New York,East,Furniture,Chairs,Chairs Model 529,495.36,2,0.0,135.61
+ORD-10573,2022-07-24,Customer 193,Consumer,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 175,339.61,2,0.1,62.64
+ORD-10574,2023-01-18,Customer 70,Corporate,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 837,162.04,10,0.3,-8.99
+ORD-10575,2022-04-24,Customer 239,Corporate,USA,Seattle,Washington,West,Office Supplies,Binders,Binders Model 528,349.17,1,0.0,41.95
+ORD-10576,2023-07-21,Customer 118,Consumer,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 521,611.56,10,0.1,88.39
+ORD-10577,2022-09-10,Customer 127,Corporate,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 544,840.25,5,0.0,195.36
+ORD-10578,2023-06-01,Customer 18,Corporate,USA,Los Angeles,California,West,Technology,Phones,Phones Model 643,429.42,1,0.0,127.89
+ORD-10579,2022-01-13,Customer 209,Consumer,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 235,463.39,4,0.0,87.87
+ORD-10580,2022-06-15,Customer 236,Home Office,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 865,998.97,1,0.3,67.19
+ORD-10581,2023-01-15,Customer 238,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 748,876.72,7,0.1,173.12
+ORD-10582,2022-10-04,Customer 278,Home Office,USA,New York,New York,East,Office Supplies,Storage,Storage Model 913,346.25,1,0.2,19.55
+ORD-10583,2022-04-24,Customer 197,Corporate,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 576,741.05,1,0.2,127.46
+ORD-10584,2022-12-09,Customer 123,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 216,655.21,2,0.1,22.67
+ORD-10585,2022-03-06,Customer 191,Corporate,USA,Miami,Florida,South,Technology,Phones,Phones Model 563,334.05,5,0.3,-10.26
+ORD-10586,2023-01-12,Customer 34,Consumer,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 568,541.27,9,0.2,34.1
+ORD-10587,2022-04-25,Customer 76,Corporate,USA,New York,New York,East,Office Supplies,Binders,Binders Model 254,302.61,2,0.0,27.6
+ORD-10588,2023-03-07,Customer 228,Home Office,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 760,970.18,9,0.1,114.94
+ORD-10589,2022-12-18,Customer 168,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 707,41.6,4,0.2,2.2
+ORD-10590,2022-08-21,Customer 248,Corporate,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 395,149.32,5,0.1,29.46
+ORD-10591,2022-10-20,Customer 94,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 959,466.81,3,0.1,83.07
+ORD-10592,2023-01-14,Customer 95,Consumer,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 675,60.33,6,0.1,6.65
+ORD-10593,2022-05-05,Customer 13,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 611,385.46,9,0.1,51.42
+ORD-10594,2022-10-30,Customer 243,Corporate,USA,Seattle,Washington,West,Office Supplies,Binders,Binders Model 872,24.21,9,0.2,2.71
+ORD-10595,2023-07-19,Customer 60,Corporate,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 125,130.07,8,0.0,11.04
+ORD-10596,2022-08-16,Customer 143,Consumer,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 123,110.63,1,0.1,16.14
+ORD-10597,2022-11-22,Customer 262,Consumer,USA,Philadelphia,Pennsylvania,East,Technology,Machines,Machines Model 782,958.47,9,0.3,-49.25
+ORD-10598,2022-10-19,Customer 177,Corporate,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 415,856.73,6,0.3,-5.82
+ORD-10599,2023-03-11,Customer 213,Consumer,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 955,890.05,7,0.3,-24.78
+ORD-10600,2023-08-28,Customer 193,Consumer,USA,New York,New York,East,Furniture,Tables,Tables Model 106,485.12,9,0.2,-16.24
+ORD-10601,2023-01-26,Customer 149,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 602,564.7,10,0.1,28.13
+ORD-10602,2022-01-03,Customer 79,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 407,504.22,8,0.1,3.38
+ORD-10603,2023-12-06,Customer 126,Consumer,USA,Miami,Florida,South,Technology,Machines,Machines Model 222,894.83,7,0.1,110.04
+ORD-10604,2022-09-22,Customer 244,Home Office,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 937,750.65,10,0.3,31.07
+ORD-10605,2022-05-30,Customer 164,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Machines,Machines Model 999,583.76,5,0.1,84.89
+ORD-10606,2022-10-26,Customer 272,Home Office,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 178,287.22,7,0.2,-10.86
+ORD-10607,2023-12-03,Customer 155,Corporate,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 801,757.58,9,0.2,127.36
+ORD-10608,2022-10-16,Customer 191,Corporate,USA,Houston,Texas,Central,Technology,Machines,Machines Model 521,364.6,3,0.0,30.71
+ORD-10609,2023-07-27,Customer 270,Home Office,USA,Houston,Texas,Central,Furniture,Chairs,Chairs Model 829,171.46,4,0.1,34.08
+ORD-10610,2022-11-16,Customer 186,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 936,134.23,3,0.0,22.8
+ORD-10611,2023-12-12,Customer 73,Home Office,USA,Atlanta,Georgia,South,Furniture,Bookcases,Bookcases Model 332,318.59,2,0.1,10.25
+ORD-10612,2023-05-11,Customer 221,Consumer,USA,Houston,Texas,Central,Furniture,Chairs,Chairs Model 301,981.49,7,0.0,68.15
+ORD-10613,2022-02-14,Customer 34,Corporate,USA,New York,New York,East,Technology,Machines,Machines Model 783,601.31,8,0.0,166.64
+ORD-10614,2022-01-30,Customer 47,Consumer,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 966,221.29,4,0.1,37.1
+ORD-10615,2022-03-11,Customer 51,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 881,858.04,10,0.1,108.31
+ORD-10616,2022-04-12,Customer 110,Home Office,USA,New York,New York,East,Technology,Phones,Phones Model 971,964.98,3,0.0,283.12
+ORD-10617,2023-01-24,Customer 218,Consumer,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 626,201.42,2,0.1,42.03
+ORD-10618,2023-01-05,Customer 148,Home Office,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 839,141.14,2,0.1,17.49
+ORD-10619,2022-11-16,Customer 228,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 667,133.41,5,0.3,6.68
+ORD-10620,2023-11-22,Customer 252,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 207,859.64,8,0.2,-4.45
+ORD-10621,2023-12-13,Customer 53,Home Office,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 272,682.99,2,0.1,67.41
+ORD-10622,2023-03-11,Customer 256,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 883,216.26,7,0.0,23.4
+ORD-10623,2022-05-31,Customer 233,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 225,673.34,7,0.3,18.75
+ORD-10624,2022-02-24,Customer 35,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 794,635.8,3,0.0,47.62
+ORD-10625,2022-04-09,Customer 40,Home Office,USA,New York,New York,East,Office Supplies,Storage,Storage Model 869,685.62,3,0.2,72.33
+ORD-10626,2023-07-08,Customer 280,Consumer,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 882,668.85,8,0.2,57.26
+ORD-10627,2022-02-03,Customer 91,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 775,461.11,7,0.3,6.88
+ORD-10628,2023-08-06,Customer 252,Home Office,USA,Houston,Texas,Central,Office Supplies,Paper,Paper Model 667,151.8,7,0.3,13.81
+ORD-10629,2023-01-22,Customer 181,Corporate,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 428,516.55,7,0.2,38.06
+ORD-10630,2023-08-21,Customer 14,Home Office,USA,New York,New York,East,Technology,Phones,Phones Model 449,145.63,6,0.2,22.19
+ORD-10631,2022-09-08,Customer 127,Consumer,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 763,992.11,7,0.2,-35.6
+ORD-10632,2023-07-06,Customer 167,Consumer,USA,Houston,Texas,Central,Technology,Phones,Phones Model 571,871.56,2,0.2,-6.58
+ORD-10633,2023-01-22,Customer 293,Corporate,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 430,702.04,10,0.0,208.11
+ORD-10634,2023-11-15,Customer 174,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 729,681.61,6,0.3,17.51
+ORD-10635,2022-02-18,Customer 153,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 511,507.01,2,0.1,36.42
+ORD-10636,2023-06-28,Customer 244,Corporate,USA,Los Angeles,California,West,Technology,Machines,Machines Model 314,112.84,6,0.2,-3.74
+ORD-10637,2022-11-17,Customer 103,Corporate,USA,Houston,Texas,Central,Technology,Accessories,Accessories Model 511,514.55,5,0.3,33.89
+ORD-10638,2022-08-07,Customer 240,Corporate,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 753,196.99,1,0.1,28.41
+ORD-10639,2023-12-03,Customer 154,Corporate,USA,Miami,Florida,South,Technology,Phones,Phones Model 520,376.99,3,0.1,14.18
+ORD-10640,2022-09-20,Customer 121,Corporate,USA,Houston,Texas,Central,Technology,Phones,Phones Model 344,849.05,5,0.2,94.68
+ORD-10641,2023-03-23,Customer 217,Home Office,USA,New York,New York,East,Furniture,Chairs,Chairs Model 137,260.67,5,0.3,5.56
+ORD-10642,2022-02-13,Customer 249,Consumer,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 156,48.56,5,0.1,7.82
+ORD-10643,2022-04-03,Customer 204,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 962,869.83,7,0.2,102.57
+ORD-10644,2022-04-03,Customer 122,Home Office,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 225,739.79,2,0.2,54.83
+ORD-10645,2022-04-20,Customer 90,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 381,402.15,4,0.3,-18.3
+ORD-10646,2022-04-26,Customer 163,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 533,74.81,9,0.2,9.34
+ORD-10647,2023-09-13,Customer 18,Home Office,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 778,375.74,6,0.2,-16.81
+ORD-10648,2022-08-31,Customer 227,Corporate,USA,New York,New York,East,Office Supplies,Storage,Storage Model 108,397.0,6,0.0,72.94
+ORD-10649,2022-06-14,Customer 225,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 424,937.6,4,0.2,2.43
+ORD-10650,2022-12-07,Customer 217,Consumer,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 944,826.73,8,0.3,69.64
+ORD-10651,2022-01-29,Customer 27,Home Office,USA,Seattle,Washington,West,Technology,Phones,Phones Model 756,364.82,10,0.2,23.1
+ORD-10652,2022-03-26,Customer 57,Consumer,USA,Seattle,Washington,West,Technology,Phones,Phones Model 355,23.01,4,0.2,0.65
+ORD-10653,2023-08-31,Customer 168,Corporate,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 303,488.8,3,0.2,-3.24
+ORD-10654,2022-01-24,Customer 286,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 726,405.62,7,0.1,2.1
+ORD-10655,2023-03-16,Customer 134,Consumer,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 191,276.55,3,0.0,41.55
+ORD-10656,2023-04-10,Customer 254,Consumer,USA,Houston,Texas,Central,Technology,Phones,Phones Model 329,33.83,9,0.3,3.16
+ORD-10657,2022-07-31,Customer 111,Corporate,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 844,751.51,7,0.1,81.03
+ORD-10658,2022-08-30,Customer 231,Consumer,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 478,796.61,1,0.2,154.57
+ORD-10659,2024-01-01,Customer 197,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 533,150.54,6,0.3,10.8
+ORD-10660,2022-12-29,Customer 24,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 359,77.58,6,0.1,9.13
+ORD-10661,2022-09-24,Customer 87,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 604,383.48,9,0.0,74.83
+ORD-10662,2022-04-30,Customer 161,Consumer,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 230,330.97,9,0.3,-21.36
+ORD-10663,2022-09-28,Customer 265,Corporate,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 546,927.71,5,0.2,95.77
+ORD-10664,2022-06-02,Customer 28,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 287,768.4,3,0.3,-66.62
+ORD-10665,2023-05-22,Customer 21,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 465,711.84,7,0.0,212.7
+ORD-10666,2022-07-28,Customer 146,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 954,848.92,3,0.0,116.64
+ORD-10667,2023-08-08,Customer 93,Corporate,USA,Seattle,Washington,West,Technology,Machines,Machines Model 178,593.96,10,0.0,107.81
+ORD-10668,2023-11-28,Customer 63,Corporate,USA,Seattle,Washington,West,Technology,Phones,Phones Model 482,889.62,1,0.2,107.05
+ORD-10669,2022-10-03,Customer 3,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 144,99.44,8,0.3,5.68
+ORD-10670,2022-02-19,Customer 145,Corporate,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 917,908.74,10,0.1,48.02
+ORD-10671,2023-02-13,Customer 46,Consumer,USA,New York,New York,East,Technology,Machines,Machines Model 972,393.76,7,0.2,-2.16
+ORD-10672,2023-03-19,Customer 159,Home Office,USA,Los Angeles,California,West,Office Supplies,Paper,Paper Model 717,299.24,3,0.0,37.3
+ORD-10673,2023-02-02,Customer 244,Corporate,USA,Seattle,Washington,West,Technology,Phones,Phones Model 676,835.41,9,0.1,102.26
+ORD-10674,2023-06-10,Customer 175,Corporate,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 792,621.59,7,0.3,-47.72
+ORD-10675,2023-03-24,Customer 41,Corporate,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 407,636.97,9,0.0,78.14
+ORD-10676,2022-02-18,Customer 283,Consumer,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 146,844.71,9,0.3,-22.07
+ORD-10677,2023-08-23,Customer 42,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 116,475.36,10,0.2,18.47
+ORD-10678,2023-12-23,Customer 153,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 701,846.05,1,0.0,130.34
+ORD-10679,2023-09-11,Customer 133,Home Office,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 208,354.51,3,0.1,16.4
+ORD-10680,2023-02-19,Customer 250,Corporate,USA,Miami,Florida,South,Furniture,Tables,Tables Model 733,134.34,3,0.3,2.02
+ORD-10681,2022-01-17,Customer 97,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 314,142.59,1,0.1,3.99
+ORD-10682,2023-04-20,Customer 76,Corporate,USA,Miami,Florida,South,Technology,Phones,Phones Model 532,447.07,9,0.1,9.62
+ORD-10683,2023-04-06,Customer 300,Consumer,USA,New York,New York,East,Furniture,Chairs,Chairs Model 306,744.01,8,0.3,13.3
+ORD-10684,2023-08-16,Customer 284,Corporate,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 137,27.72,7,0.3,3.11
+ORD-10685,2022-03-04,Customer 271,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 532,599.22,10,0.3,-25.18
+ORD-10686,2023-10-24,Customer 178,Corporate,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 814,428.79,8,0.0,74.48
+ORD-10687,2023-06-04,Customer 113,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 801,731.68,8,0.2,43.56
+ORD-10688,2023-11-21,Customer 185,Corporate,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 918,728.54,7,0.3,78.88
+ORD-10689,2022-06-10,Customer 252,Consumer,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 912,754.27,8,0.1,32.68
+ORD-10690,2022-09-25,Customer 183,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 262,225.24,1,0.0,31.47
+ORD-10691,2022-08-18,Customer 250,Corporate,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 448,442.01,10,0.1,13.34
+ORD-10692,2023-03-25,Customer 235,Consumer,USA,Houston,Texas,Central,Technology,Accessories,Accessories Model 208,898.39,9,0.0,203.58
+ORD-10693,2022-06-10,Customer 150,Home Office,USA,New York,New York,East,Technology,Phones,Phones Model 552,183.71,2,0.1,41.84
+ORD-10694,2023-03-26,Customer 213,Consumer,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 351,376.46,3,0.0,98.69
+ORD-10695,2023-03-01,Customer 185,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 780,187.84,5,0.2,24.19
+ORD-10696,2023-02-24,Customer 235,Home Office,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 913,791.47,3,0.3,2.65
+ORD-10697,2022-11-19,Customer 206,Consumer,USA,Houston,Texas,Central,Office Supplies,Binders,Binders Model 544,774.75,9,0.0,55.16
+ORD-10698,2024-01-01,Customer 267,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 529,924.07,3,0.0,272.08
+ORD-10699,2023-06-25,Customer 76,Home Office,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 513,327.42,6,0.0,84.07
+ORD-10700,2023-10-27,Customer 208,Consumer,USA,Miami,Florida,South,Technology,Machines,Machines Model 408,792.57,8,0.2,136.26
+ORD-10701,2023-06-08,Customer 283,Corporate,USA,New York,New York,East,Technology,Accessories,Accessories Model 633,402.19,3,0.2,1.38
+ORD-10702,2022-11-08,Customer 217,Home Office,USA,Houston,Texas,Central,Furniture,Chairs,Chairs Model 213,892.51,9,0.2,9.22
+ORD-10703,2022-05-08,Customer 230,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 686,517.35,2,0.0,123.72
+ORD-10704,2022-10-19,Customer 294,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 243,809.28,10,0.1,70.88
+ORD-10705,2022-05-31,Customer 218,Corporate,USA,Miami,Florida,South,Furniture,Tables,Tables Model 183,526.12,4,0.2,33.45
+ORD-10706,2023-06-23,Customer 207,Home Office,USA,New York,New York,East,Office Supplies,Binders,Binders Model 672,486.73,8,0.0,69.27
+ORD-10707,2023-03-03,Customer 84,Consumer,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 617,643.73,8,0.3,53.38
+ORD-10708,2023-04-12,Customer 243,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 864,146.8,9,0.0,32.83
+ORD-10709,2022-10-24,Customer 21,Home Office,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 256,855.27,2,0.0,121.79
+ORD-10710,2022-05-26,Customer 216,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 412,317.19,8,0.0,78.6
+ORD-10711,2022-02-15,Customer 214,Corporate,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 686,499.02,2,0.2,-16.52
+ORD-10712,2023-06-01,Customer 236,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 783,485.72,10,0.1,92.52
+ORD-10713,2023-02-09,Customer 174,Home Office,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 146,107.53,10,0.3,-0.34
+ORD-10714,2022-05-07,Customer 287,Consumer,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 297,868.63,1,0.2,78.4
+ORD-10715,2022-10-09,Customer 106,Consumer,USA,New York,New York,East,Office Supplies,Storage,Storage Model 949,898.93,2,0.1,216.28
+ORD-10716,2022-01-24,Customer 175,Corporate,USA,Miami,Florida,South,Technology,Machines,Machines Model 284,334.02,10,0.0,57.74
+ORD-10717,2023-07-09,Customer 87,Corporate,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 247,394.37,2,0.0,116.32
+ORD-10718,2022-11-30,Customer 93,Consumer,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 830,320.66,7,0.1,4.72
+ORD-10719,2022-05-04,Customer 27,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 345,333.64,7,0.2,4.83
+ORD-10720,2023-04-21,Customer 284,Corporate,USA,Seattle,Washington,West,Technology,Machines,Machines Model 167,397.35,2,0.2,-13.84
+ORD-10721,2023-08-24,Customer 52,Consumer,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 881,249.07,1,0.2,22.05
+ORD-10722,2022-05-26,Customer 192,Home Office,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 272,457.06,9,0.1,89.46
+ORD-10723,2022-06-21,Customer 1,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 593,60.96,8,0.2,6.9
+ORD-10724,2023-07-01,Customer 289,Consumer,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 407,999.26,4,0.2,-38.6
+ORD-10725,2022-08-04,Customer 259,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 798,833.89,9,0.2,141.4
+ORD-10726,2023-09-06,Customer 169,Consumer,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 808,287.55,6,0.2,0.76
+ORD-10727,2023-12-15,Customer 251,Corporate,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 651,24.19,1,0.1,2.5
+ORD-10728,2023-01-21,Customer 184,Corporate,USA,New York,New York,East,Technology,Phones,Phones Model 281,894.72,8,0.0,123.69
+ORD-10729,2022-01-21,Customer 144,Home Office,USA,New York,New York,East,Office Supplies,Paper,Paper Model 826,937.52,8,0.0,98.8
+ORD-10730,2023-01-07,Customer 19,Corporate,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 604,632.73,4,0.1,155.04
+ORD-10731,2022-07-18,Customer 290,Home Office,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 798,408.16,5,0.3,-23.42
+ORD-10732,2022-08-22,Customer 268,Home Office,USA,Los Angeles,California,West,Technology,Phones,Phones Model 901,751.05,3,0.2,137.74
+ORD-10733,2023-04-10,Customer 2,Corporate,USA,Houston,Texas,Central,Technology,Phones,Phones Model 756,992.11,9,0.2,119.22
+ORD-10734,2023-06-14,Customer 23,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 329,288.55,9,0.3,6.89
+ORD-10735,2022-03-25,Customer 293,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 855,459.88,1,0.3,-23.61
+ORD-10736,2023-10-03,Customer 50,Consumer,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 591,212.94,6,0.2,-7.3
+ORD-10737,2022-09-02,Customer 175,Consumer,USA,Miami,Florida,South,Technology,Machines,Machines Model 941,936.36,5,0.1,25.24
+ORD-10738,2022-03-29,Customer 32,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 486,627.18,2,0.3,28.06
+ORD-10739,2023-10-04,Customer 222,Consumer,USA,Houston,Texas,Central,Furniture,Chairs,Chairs Model 204,920.73,8,0.0,115.43
+ORD-10740,2023-09-06,Customer 6,Corporate,USA,New York,New York,East,Office Supplies,Paper,Paper Model 493,413.65,10,0.3,-17.26
+ORD-10741,2023-08-25,Customer 99,Consumer,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 205,119.25,1,0.3,3.49
+ORD-10742,2023-05-08,Customer 228,Consumer,USA,New York,New York,East,Technology,Phones,Phones Model 348,906.28,3,0.2,35.21
+ORD-10743,2023-07-09,Customer 75,Consumer,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 580,325.43,7,0.2,9.05
+ORD-10744,2023-06-04,Customer 287,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 532,970.87,9,0.1,13.91
+ORD-10745,2023-05-03,Customer 240,Home Office,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 809,910.33,2,0.2,-2.42
+ORD-10746,2022-02-13,Customer 254,Consumer,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 103,430.32,3,0.0,70.39
+ORD-10747,2023-01-20,Customer 106,Corporate,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 288,228.88,8,0.2,34.75
+ORD-10748,2023-03-27,Customer 100,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 699,370.73,9,0.0,31.73
+ORD-10749,2022-06-28,Customer 174,Home Office,USA,Houston,Texas,Central,Furniture,Chairs,Chairs Model 351,213.87,3,0.1,47.34
+ORD-10750,2022-05-21,Customer 195,Home Office,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 906,846.02,2,0.0,218.16
+ORD-10751,2023-06-24,Customer 223,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 166,467.08,6,0.2,53.82
+ORD-10752,2023-03-16,Customer 126,Consumer,USA,New York,New York,East,Furniture,Chairs,Chairs Model 881,207.85,7,0.2,6.13
+ORD-10753,2023-08-22,Customer 251,Consumer,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 844,262.23,5,0.1,55.82
+ORD-10754,2023-10-23,Customer 261,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Machines,Machines Model 610,83.58,9,0.3,7.34
+ORD-10755,2023-08-19,Customer 206,Home Office,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 909,386.4,8,0.3,7.13
+ORD-10756,2023-03-12,Customer 194,Home Office,USA,New York,New York,East,Furniture,Chairs,Chairs Model 260,463.04,4,0.3,-21.0
+ORD-10757,2022-12-27,Customer 118,Home Office,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 142,151.64,2,0.2,9.27
+ORD-10758,2022-11-21,Customer 140,Corporate,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 125,478.2,7,0.2,72.27
+ORD-10759,2023-05-29,Customer 263,Home Office,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 759,652.45,6,0.0,80.66
+ORD-10760,2022-12-08,Customer 101,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 437,136.22,6,0.0,25.41
+ORD-10761,2023-07-11,Customer 134,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 888,848.54,4,0.1,211.8
+ORD-10762,2023-06-09,Customer 77,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 333,946.9,10,0.0,159.08
+ORD-10763,2023-04-18,Customer 175,Consumer,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 420,525.51,9,0.3,42.37
+ORD-10764,2023-08-15,Customer 66,Corporate,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 855,225.39,8,0.0,32.38
+ORD-10765,2023-02-18,Customer 276,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 433,353.03,7,0.3,25.22
+ORD-10766,2022-07-29,Customer 201,Consumer,USA,New York,New York,East,Furniture,Chairs,Chairs Model 647,977.7,6,0.3,141.81
+ORD-10767,2022-04-17,Customer 284,Consumer,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 132,342.26,8,0.2,-9.13
+ORD-10768,2022-10-26,Customer 269,Consumer,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 565,88.1,7,0.2,0.13
+ORD-10769,2022-04-24,Customer 67,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 528,188.39,7,0.3,-11.44
+ORD-10770,2023-12-28,Customer 244,Consumer,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 718,147.33,4,0.2,8.55
+ORD-10771,2022-05-27,Customer 229,Consumer,USA,Houston,Texas,Central,Technology,Machines,Machines Model 944,691.14,5,0.1,1.29
+ORD-10772,2022-02-10,Customer 47,Corporate,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 761,912.1,8,0.3,14.3
+ORD-10773,2022-07-03,Customer 222,Corporate,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 493,796.5,7,0.1,82.65
+ORD-10774,2023-10-06,Customer 276,Corporate,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 782,946.77,4,0.1,64.8
+ORD-10775,2022-03-20,Customer 54,Home Office,USA,New York,New York,East,Office Supplies,Paper,Paper Model 884,992.54,9,0.0,296.6
+ORD-10776,2022-03-16,Customer 237,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 451,267.71,9,0.0,44.32
+ORD-10777,2023-04-21,Customer 249,Corporate,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 169,30.52,2,0.1,2.5
+ORD-10778,2022-01-19,Customer 52,Consumer,USA,New York,New York,East,Technology,Accessories,Accessories Model 401,157.45,5,0.1,6.71
+ORD-10779,2023-01-02,Customer 92,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 831,677.96,1,0.2,-7.88
+ORD-10780,2022-11-12,Customer 228,Consumer,USA,New York,New York,East,Office Supplies,Storage,Storage Model 712,66.8,9,0.0,9.86
+ORD-10781,2022-01-17,Customer 216,Consumer,USA,New York,New York,East,Office Supplies,Binders,Binders Model 114,930.24,6,0.1,46.51
+ORD-10782,2022-02-15,Customer 213,Home Office,USA,Houston,Texas,Central,Technology,Machines,Machines Model 210,81.91,2,0.1,14.83
+ORD-10783,2022-05-04,Customer 119,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 208,205.76,4,0.3,27.72
+ORD-10784,2023-04-15,Customer 113,Consumer,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 773,414.1,6,0.0,61.0
+ORD-10785,2023-05-27,Customer 53,Home Office,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 649,887.75,7,0.2,125.96
+ORD-10786,2023-10-13,Customer 163,Home Office,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 593,337.87,7,0.1,28.05
+ORD-10787,2022-08-27,Customer 258,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 821,913.86,8,0.3,25.37
+ORD-10788,2023-03-15,Customer 125,Home Office,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 181,763.76,2,0.2,6.95
+ORD-10789,2022-02-08,Customer 122,Home Office,USA,New York,New York,East,Office Supplies,Paper,Paper Model 712,310.68,3,0.3,-15.19
+ORD-10790,2022-10-23,Customer 13,Consumer,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 967,331.19,1,0.3,20.54
+ORD-10791,2023-01-26,Customer 267,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 287,548.53,4,0.1,83.39
+ORD-10792,2022-05-25,Customer 105,Consumer,USA,Miami,Florida,South,Furniture,Tables,Tables Model 193,88.59,4,0.0,18.48
+ORD-10793,2022-07-22,Customer 126,Corporate,USA,Los Angeles,California,West,Furniture,Bookcases,Bookcases Model 280,96.6,8,0.2,-0.87
+ORD-10794,2023-05-08,Customer 41,Corporate,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 507,459.31,4,0.2,76.06
+ORD-10795,2023-05-09,Customer 11,Corporate,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 537,434.24,10,0.3,39.12
+ORD-10796,2022-11-10,Customer 233,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Machines,Machines Model 484,169.74,3,0.2,7.66
+ORD-10797,2022-01-05,Customer 7,Home Office,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 847,720.57,4,0.1,165.03
+ORD-10798,2023-10-19,Customer 37,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 139,941.48,6,0.3,21.08
+ORD-10799,2022-12-23,Customer 261,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Phones,Phones Model 600,210.34,7,0.2,30.04
+ORD-10800,2023-01-06,Customer 15,Home Office,USA,Houston,Texas,Central,Technology,Accessories,Accessories Model 781,927.99,4,0.1,110.83
+ORD-10801,2023-08-16,Customer 83,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 219,945.38,3,0.2,11.21
+ORD-10802,2022-06-19,Customer 219,Corporate,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 808,594.44,2,0.1,130.18
+ORD-10803,2022-12-19,Customer 74,Corporate,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 866,739.25,2,0.0,154.54
+ORD-10804,2022-03-13,Customer 214,Home Office,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 526,26.29,3,0.3,-2.62
+ORD-10805,2023-05-30,Customer 57,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 680,387.16,3,0.1,47.09
+ORD-10806,2023-02-23,Customer 226,Home Office,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 739,754.92,4,0.2,147.77
+ORD-10807,2022-01-31,Customer 300,Consumer,USA,New York,New York,East,Furniture,Tables,Tables Model 589,103.99,2,0.2,-3.53
+ORD-10808,2023-06-19,Customer 4,Corporate,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 717,280.76,1,0.0,20.84
+ORD-10809,2022-12-18,Customer 162,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 469,612.28,6,0.2,73.76
+ORD-10810,2023-12-17,Customer 206,Home Office,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 955,975.8,6,0.0,49.54
+ORD-10811,2023-09-26,Customer 244,Home Office,USA,Los Angeles,California,West,Technology,Phones,Phones Model 523,871.63,5,0.1,80.28
+ORD-10812,2022-11-30,Customer 228,Consumer,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 721,36.3,6,0.0,10.61
+ORD-10813,2023-05-03,Customer 52,Home Office,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 494,798.08,6,0.3,107.56
+ORD-10814,2022-03-31,Customer 155,Home Office,USA,Houston,Texas,Central,Technology,Phones,Phones Model 661,872.46,10,0.0,71.51
+ORD-10815,2022-06-24,Customer 46,Consumer,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 545,492.53,9,0.1,29.97
+ORD-10816,2023-11-18,Customer 64,Home Office,USA,New York,New York,East,Office Supplies,Paper,Paper Model 239,770.98,4,0.2,89.81
+ORD-10817,2023-01-22,Customer 196,Home Office,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 757,874.5,10,0.0,184.52
+ORD-10818,2023-08-30,Customer 97,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 218,133.38,2,0.0,9.64
+ORD-10819,2023-07-03,Customer 98,Corporate,USA,Houston,Texas,Central,Office Supplies,Paper,Paper Model 533,585.38,1,0.2,-20.21
+ORD-10820,2022-01-10,Customer 276,Corporate,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 423,529.36,10,0.1,14.11
+ORD-10821,2023-11-13,Customer 18,Home Office,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 427,686.38,3,0.2,-9.29
+ORD-10822,2023-01-21,Customer 31,Corporate,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 256,582.49,4,0.3,-15.8
+ORD-10823,2022-11-03,Customer 82,Consumer,USA,Los Angeles,California,West,Technology,Machines,Machines Model 661,71.51,3,0.3,5.85
+ORD-10824,2023-06-25,Customer 145,Corporate,USA,Atlanta,Georgia,South,Office Supplies,Storage,Storage Model 813,483.95,6,0.3,-1.08
+ORD-10825,2023-12-28,Customer 156,Corporate,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 770,336.95,10,0.0,88.43
+ORD-10826,2022-07-20,Customer 5,Corporate,USA,Los Angeles,California,West,Office Supplies,Storage,Storage Model 843,492.79,3,0.1,26.87
+ORD-10827,2023-05-01,Customer 92,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 220,685.86,3,0.0,50.76
+ORD-10828,2023-02-11,Customer 251,Corporate,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 804,728.1,4,0.0,58.03
+ORD-10829,2023-10-31,Customer 228,Corporate,USA,Seattle,Washington,West,Technology,Machines,Machines Model 111,665.35,8,0.3,-20.76
+ORD-10830,2023-08-10,Customer 294,Corporate,USA,New York,New York,East,Furniture,Chairs,Chairs Model 380,499.43,9,0.1,2.88
+ORD-10831,2022-04-12,Customer 167,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 830,999.96,7,0.2,92.85
+ORD-10832,2023-08-22,Customer 276,Home Office,USA,Seattle,Washington,West,Technology,Phones,Phones Model 938,405.92,9,0.3,-34.1
+ORD-10833,2023-04-03,Customer 161,Consumer,USA,New York,New York,East,Technology,Phones,Phones Model 140,197.05,10,0.1,0.26
+ORD-10834,2022-05-08,Customer 260,Corporate,USA,Los Angeles,California,West,Technology,Phones,Phones Model 472,106.06,5,0.0,7.55
+ORD-10835,2023-04-01,Customer 72,Home Office,USA,Seattle,Washington,West,Technology,Phones,Phones Model 602,263.37,1,0.2,30.23
+ORD-10836,2022-07-12,Customer 73,Corporate,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 976,520.38,2,0.0,56.86
+ORD-10837,2023-09-30,Customer 217,Consumer,USA,Los Angeles,California,West,Technology,Machines,Machines Model 663,231.72,6,0.2,-4.14
+ORD-10838,2022-09-18,Customer 218,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 246,905.59,7,0.3,-71.71
+ORD-10839,2023-10-26,Customer 262,Home Office,USA,Los Angeles,California,West,Technology,Machines,Machines Model 267,284.01,4,0.2,25.82
+ORD-10840,2022-05-08,Customer 273,Consumer,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 800,391.36,10,0.1,7.59
+ORD-10841,2022-08-20,Customer 141,Consumer,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 200,107.19,6,0.2,-1.44
+ORD-10842,2022-11-10,Customer 251,Consumer,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 641,787.08,2,0.1,103.59
+ORD-10843,2023-02-03,Customer 93,Corporate,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 925,615.32,1,0.1,48.92
+ORD-10844,2022-05-27,Customer 194,Home Office,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 853,273.88,9,0.1,45.02
+ORD-10845,2022-07-07,Customer 225,Corporate,USA,Houston,Texas,Central,Technology,Machines,Machines Model 917,975.01,4,0.3,74.78
+ORD-10846,2022-03-31,Customer 157,Corporate,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 889,530.18,4,0.2,57.74
+ORD-10847,2022-02-28,Customer 44,Home Office,USA,Houston,Texas,Central,Technology,Phones,Phones Model 392,95.16,4,0.0,8.69
+ORD-10848,2023-12-03,Customer 273,Home Office,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 227,518.51,3,0.3,12.68
+ORD-10849,2022-12-20,Customer 126,Home Office,USA,Miami,Florida,South,Technology,Phones,Phones Model 777,912.67,1,0.3,69.04
+ORD-10850,2023-01-11,Customer 69,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 461,931.58,9,0.1,40.71
+ORD-10851,2022-09-13,Customer 277,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 397,187.07,2,0.2,33.39
+ORD-10852,2022-11-09,Customer 264,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 574,228.8,10,0.3,-10.44
+ORD-10853,2022-01-06,Customer 180,Home Office,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 290,623.22,6,0.2,23.98
+ORD-10854,2022-06-07,Customer 211,Consumer,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 599,442.19,4,0.0,80.6
+ORD-10855,2023-03-15,Customer 94,Home Office,USA,New York,New York,East,Technology,Accessories,Accessories Model 931,241.57,7,0.2,6.0
+ORD-10856,2023-03-21,Customer 3,Corporate,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 991,842.57,3,0.1,74.51
+ORD-10857,2022-02-02,Customer 83,Home Office,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 303,59.45,7,0.3,5.11
+ORD-10858,2023-02-14,Customer 257,Home Office,USA,Atlanta,Georgia,South,Furniture,Tables,Tables Model 859,499.29,8,0.1,40.55
+ORD-10859,2022-01-14,Customer 122,Consumer,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 794,796.86,3,0.1,68.55
+ORD-10860,2022-03-26,Customer 220,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 732,27.87,8,0.2,0.57
+ORD-10861,2023-03-16,Customer 102,Corporate,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 823,771.39,5,0.1,128.5
+ORD-10862,2023-02-15,Customer 20,Corporate,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 296,636.33,3,0.1,19.16
+ORD-10863,2022-11-10,Customer 119,Consumer,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 444,215.65,1,0.3,0.39
+ORD-10864,2023-01-08,Customer 144,Corporate,USA,Atlanta,Georgia,South,Furniture,Bookcases,Bookcases Model 828,438.53,1,0.2,-9.86
+ORD-10865,2022-11-26,Customer 109,Corporate,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 583,198.12,1,0.0,42.62
+ORD-10866,2022-04-25,Customer 50,Home Office,USA,Houston,Texas,Central,Office Supplies,Binders,Binders Model 113,267.22,8,0.2,8.97
+ORD-10867,2022-10-10,Customer 108,Home Office,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 493,813.83,10,0.2,7.78
+ORD-10868,2023-11-02,Customer 98,Consumer,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 821,747.74,2,0.0,147.04
+ORD-10869,2022-07-26,Customer 274,Home Office,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 257,626.63,5,0.3,92.37
+ORD-10870,2023-04-05,Customer 61,Corporate,USA,New York,New York,East,Furniture,Tables,Tables Model 169,559.49,5,0.2,97.2
+ORD-10871,2022-05-13,Customer 149,Consumer,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 679,795.07,3,0.2,98.73
+ORD-10872,2023-06-06,Customer 197,Home Office,USA,New York,New York,East,Technology,Accessories,Accessories Model 898,505.13,9,0.0,46.16
+ORD-10873,2023-08-30,Customer 5,Home Office,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 566,222.79,1,0.1,31.85
+ORD-10874,2022-02-16,Customer 274,Consumer,USA,Chicago,Illinois,Central,Furniture,Tables,Tables Model 398,714.09,9,0.0,66.25
+ORD-10875,2022-08-04,Customer 274,Consumer,USA,New York,New York,East,Office Supplies,Binders,Binders Model 101,285.03,1,0.1,70.51
+ORD-10876,2023-02-23,Customer 151,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Binders,Binders Model 158,947.5,9,0.2,123.67
+ORD-10877,2023-07-05,Customer 299,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 839,965.92,3,0.2,186.33
+ORD-10878,2022-10-03,Customer 105,Home Office,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 744,612.25,4,0.3,-27.45
+ORD-10879,2023-05-06,Customer 48,Corporate,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 285,735.22,7,0.2,-9.5
+ORD-10880,2022-06-16,Customer 91,Corporate,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 803,578.26,3,0.2,-25.87
+ORD-10881,2023-06-24,Customer 71,Home Office,USA,Los Angeles,California,West,Furniture,Chairs,Chairs Model 868,437.87,8,0.3,-32.81
+ORD-10882,2022-03-27,Customer 138,Consumer,USA,New York,New York,East,Office Supplies,Paper,Paper Model 742,40.3,1,0.0,3.35
+ORD-10883,2023-05-07,Customer 289,Corporate,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 935,741.41,6,0.0,74.57
+ORD-10884,2022-05-07,Customer 11,Consumer,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 205,171.42,1,0.2,18.32
+ORD-10885,2023-01-30,Customer 76,Corporate,USA,Houston,Texas,Central,Technology,Accessories,Accessories Model 771,159.0,4,0.0,16.96
+ORD-10886,2022-04-23,Customer 115,Consumer,USA,Houston,Texas,Central,Technology,Accessories,Accessories Model 388,693.03,2,0.3,-39.93
+ORD-10887,2022-07-02,Customer 220,Home Office,USA,Houston,Texas,Central,Technology,Accessories,Accessories Model 442,135.98,2,0.0,27.35
+ORD-10888,2022-04-17,Customer 139,Corporate,USA,Seattle,Washington,West,Furniture,Bookcases,Bookcases Model 777,693.42,10,0.2,25.72
+ORD-10889,2023-02-04,Customer 229,Home Office,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 915,793.08,3,0.1,63.5
+ORD-10890,2022-05-11,Customer 94,Corporate,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 461,438.9,5,0.1,9.92
+ORD-10891,2023-11-01,Customer 126,Corporate,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 528,699.55,7,0.2,-10.8
+ORD-10892,2023-03-08,Customer 270,Home Office,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 895,824.98,7,0.0,161.07
+ORD-10893,2022-05-17,Customer 57,Consumer,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 457,22.81,1,0.2,2.04
+ORD-10894,2022-08-18,Customer 29,Home Office,USA,Houston,Texas,Central,Office Supplies,Paper,Paper Model 241,161.26,9,0.3,-6.35
+ORD-10895,2022-04-19,Customer 298,Consumer,USA,New York,New York,East,Office Supplies,Storage,Storage Model 588,45.82,7,0.2,-1.67
+ORD-10896,2023-03-03,Customer 77,Consumer,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 581,158.45,4,0.0,8.42
+ORD-10897,2022-06-09,Customer 31,Home Office,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 132,728.11,8,0.0,88.61
+ORD-10898,2023-05-29,Customer 157,Home Office,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 332,836.03,8,0.2,150.31
+ORD-10899,2022-02-27,Customer 113,Corporate,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 288,531.07,3,0.1,53.16
+ORD-10900,2023-01-16,Customer 218,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Paper Model 376,659.65,7,0.3,-38.78
+ORD-10901,2022-06-16,Customer 278,Consumer,USA,New York,New York,East,Furniture,Tables,Tables Model 166,611.13,6,0.0,67.15
+ORD-10902,2023-08-07,Customer 290,Consumer,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 677,560.66,1,0.1,37.73
+ORD-10903,2022-10-17,Customer 204,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 299,111.35,5,0.0,32.86
+ORD-10904,2023-05-31,Customer 52,Home Office,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 926,974.37,2,0.2,50.49
+ORD-10905,2023-11-30,Customer 238,Consumer,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 740,487.41,1,0.2,-4.73
+ORD-10906,2022-05-15,Customer 174,Corporate,USA,New York,New York,East,Furniture,Bookcases,Bookcases Model 468,661.14,3,0.2,40.9
+ORD-10907,2023-08-04,Customer 255,Consumer,USA,Miami,Florida,South,Technology,Machines,Machines Model 924,399.88,4,0.0,115.77
+ORD-10908,2022-11-18,Customer 87,Corporate,USA,New York,New York,East,Office Supplies,Storage,Storage Model 265,870.18,2,0.3,-66.54
+ORD-10909,2023-04-17,Customer 133,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 362,366.3,2,0.1,65.08
+ORD-10910,2023-09-27,Customer 67,Corporate,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 475,498.49,6,0.2,25.04
+ORD-10911,2023-11-30,Customer 22,Home Office,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 759,424.93,8,0.2,71.96
+ORD-10912,2023-08-07,Customer 205,Consumer,USA,New York,New York,East,Technology,Machines,Machines Model 328,27.78,2,0.2,1.22
+ORD-10913,2022-07-04,Customer 56,Corporate,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 886,361.96,8,0.3,-26.32
+ORD-10914,2023-05-03,Customer 59,Corporate,USA,Miami,Florida,South,Office Supplies,Paper,Paper Model 565,83.18,6,0.3,-3.9
+ORD-10915,2023-01-25,Customer 32,Corporate,USA,New York,New York,East,Office Supplies,Binders,Binders Model 908,647.41,6,0.0,192.25
+ORD-10916,2023-10-13,Customer 91,Consumer,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 245,227.26,1,0.3,-7.39
+ORD-10917,2023-11-17,Customer 133,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 950,312.37,8,0.3,9.74
+ORD-10918,2023-03-06,Customer 247,Corporate,USA,New York,New York,East,Office Supplies,Paper,Paper Model 648,964.1,5,0.1,47.87
+ORD-10919,2023-11-15,Customer 297,Home Office,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 248,578.91,1,0.1,11.26
+ORD-10920,2022-04-27,Customer 209,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 633,898.57,3,0.3,104.3
+ORD-10921,2022-07-12,Customer 216,Home Office,USA,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bookcases Model 659,460.34,10,0.0,27.22
+ORD-10922,2023-01-08,Customer 9,Corporate,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 414,225.57,4,0.0,32.16
+ORD-10923,2023-03-13,Customer 268,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 216,425.77,6,0.2,66.87
+ORD-10924,2023-01-26,Customer 146,Home Office,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 805,193.36,10,0.1,26.24
+ORD-10925,2022-04-17,Customer 46,Home Office,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 116,939.14,2,0.0,236.18
+ORD-10926,2023-05-31,Customer 298,Consumer,USA,Miami,Florida,South,Office Supplies,Storage,Storage Model 783,756.69,9,0.0,157.68
+ORD-10927,2023-04-26,Customer 64,Corporate,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 912,781.34,9,0.3,-55.77
+ORD-10928,2022-08-18,Customer 260,Corporate,USA,Atlanta,Georgia,South,Technology,Machines,Machines Model 374,788.94,7,0.0,224.77
+ORD-10929,2022-06-07,Customer 192,Home Office,USA,Chicago,Illinois,Central,Office Supplies,Storage,Storage Model 939,256.72,7,0.0,13.83
+ORD-10930,2023-10-22,Customer 202,Consumer,USA,Chicago,Illinois,Central,Furniture,Bookcases,Bookcases Model 920,992.97,4,0.3,-51.47
+ORD-10931,2023-06-14,Customer 82,Corporate,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 336,977.81,3,0.3,123.25
+ORD-10932,2022-06-12,Customer 166,Consumer,USA,New York,New York,East,Technology,Phones,Phones Model 195,638.81,7,0.2,101.78
+ORD-10933,2023-12-26,Customer 279,Consumer,USA,New York,New York,East,Office Supplies,Binders,Binders Model 685,636.32,10,0.1,4.43
+ORD-10934,2023-10-31,Customer 114,Corporate,USA,Miami,Florida,South,Technology,Machines,Machines Model 298,147.94,8,0.2,-0.5
+ORD-10935,2023-10-16,Customer 297,Consumer,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 213,70.71,2,0.1,11.09
+ORD-10936,2023-01-06,Customer 107,Corporate,USA,Miami,Florida,South,Furniture,Chairs,Chairs Model 203,296.81,3,0.0,20.58
+ORD-10937,2023-01-20,Customer 161,Home Office,USA,Miami,Florida,South,Office Supplies,Binders,Binders Model 561,496.79,2,0.1,85.37
+ORD-10938,2022-12-18,Customer 178,Corporate,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 728,905.57,10,0.0,71.81
+ORD-10939,2023-07-03,Customer 12,Home Office,USA,New York,New York,East,Technology,Machines,Machines Model 624,269.41,2,0.1,40.82
+ORD-10940,2022-03-27,Customer 65,Corporate,USA,Los Angeles,California,West,Office Supplies,Binders,Binders Model 380,900.6,1,0.2,-13.83
+ORD-10941,2023-05-23,Customer 224,Home Office,USA,Miami,Florida,South,Furniture,Tables,Tables Model 509,713.92,5,0.3,61.61
+ORD-10942,2023-08-25,Customer 160,Consumer,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 913,693.32,5,0.3,-51.5
+ORD-10943,2023-09-14,Customer 197,Corporate,USA,Seattle,Washington,West,Office Supplies,Paper,Paper Model 304,435.26,5,0.2,46.02
+ORD-10944,2022-10-28,Customer 272,Corporate,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 507,460.42,1,0.2,44.53
+ORD-10945,2022-08-09,Customer 191,Corporate,USA,New York,New York,East,Furniture,Tables,Tables Model 248,440.8,3,0.2,4.99
+ORD-10946,2022-11-26,Customer 120,Home Office,USA,Houston,Texas,Central,Furniture,Tables,Tables Model 167,694.53,6,0.1,80.8
+ORD-10947,2023-11-19,Customer 39,Home Office,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 761,536.72,2,0.2,69.27
+ORD-10948,2022-10-09,Customer 216,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 227,214.19,1,0.3,5.28
+ORD-10949,2023-10-22,Customer 295,Consumer,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 572,599.35,4,0.0,72.68
+ORD-10950,2022-01-17,Customer 36,Corporate,USA,Houston,Texas,Central,Office Supplies,Binders,Binders Model 197,897.91,9,0.0,120.63
+ORD-10951,2022-11-17,Customer 253,Home Office,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 148,758.62,7,0.0,143.46
+ORD-10952,2022-04-16,Customer 15,Consumer,USA,Atlanta,Georgia,South,Technology,Accessories,Accessories Model 148,503.47,2,0.2,92.85
+ORD-10953,2022-07-15,Customer 189,Home Office,USA,New York,New York,East,Furniture,Tables,Tables Model 105,864.16,7,0.1,36.77
+ORD-10954,2023-12-06,Customer 195,Corporate,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 815,67.04,5,0.0,7.77
+ORD-10955,2023-02-28,Customer 229,Home Office,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 225,137.5,6,0.1,25.89
+ORD-10956,2022-09-28,Customer 152,Home Office,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 184,976.82,6,0.3,-42.53
+ORD-10957,2023-05-22,Customer 31,Consumer,USA,Houston,Texas,Central,Technology,Machines,Machines Model 113,740.56,4,0.0,50.94
+ORD-10958,2023-06-25,Customer 264,Corporate,USA,Seattle,Washington,West,Office Supplies,Binders,Binders Model 878,497.89,6,0.1,101.32
+ORD-10959,2023-01-08,Customer 198,Corporate,USA,Chicago,Illinois,Central,Technology,Phones,Phones Model 988,850.85,2,0.1,46.54
+ORD-10960,2023-08-15,Customer 53,Consumer,USA,Seattle,Washington,West,Furniture,Chairs,Chairs Model 572,292.28,3,0.2,54.91
+ORD-10961,2023-11-09,Customer 272,Corporate,USA,New York,New York,East,Furniture,Chairs,Chairs Model 460,896.22,3,0.2,-38.41
+ORD-10962,2023-03-18,Customer 261,Corporate,USA,Houston,Texas,Central,Technology,Phones,Phones Model 154,367.34,4,0.1,36.45
+ORD-10963,2022-07-13,Customer 207,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 708,68.15,7,0.3,-3.51
+ORD-10964,2022-08-13,Customer 59,Consumer,USA,Chicago,Illinois,Central,Technology,Accessories,Accessories Model 136,127.0,1,0.1,30.45
+ORD-10965,2022-04-14,Customer 113,Home Office,USA,Houston,Texas,Central,Furniture,Bookcases,Bookcases Model 943,119.01,4,0.3,-0.24
+ORD-10966,2022-10-22,Customer 2,Consumer,USA,Chicago,Illinois,Central,Furniture,Chairs,Chairs Model 289,790.01,6,0.2,99.91
+ORD-10967,2023-04-12,Customer 73,Consumer,USA,Atlanta,Georgia,South,Technology,Phones,Phones Model 782,186.83,2,0.1,8.75
+ORD-10968,2022-01-10,Customer 181,Corporate,USA,Atlanta,Georgia,South,Office Supplies,Binders,Binders Model 697,193.96,5,0.0,17.98
+ORD-10969,2023-06-22,Customer 258,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Tables,Tables Model 873,127.2,1,0.2,20.2
+ORD-10970,2022-12-26,Customer 280,Corporate,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 779,807.81,6,0.3,18.31
+ORD-10971,2023-06-15,Customer 248,Consumer,USA,Atlanta,Georgia,South,Office Supplies,Paper,Paper Model 376,33.29,6,0.2,4.25
+ORD-10972,2022-09-08,Customer 296,Home Office,USA,New York,New York,East,Office Supplies,Binders,Binders Model 812,666.18,3,0.2,49.6
+ORD-10973,2023-10-04,Customer 279,Corporate,USA,Atlanta,Georgia,South,Furniture,Bookcases,Bookcases Model 997,107.49,7,0.0,31.32
+ORD-10974,2022-10-10,Customer 159,Consumer,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 142,890.24,7,0.3,121.35
+ORD-10975,2022-01-09,Customer 256,Home Office,USA,Houston,Texas,Central,Office Supplies,Paper,Paper Model 250,575.33,6,0.2,-12.92
+ORD-10976,2022-03-08,Customer 151,Consumer,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 564,631.32,3,0.2,45.27
+ORD-10977,2022-12-27,Customer 1,Consumer,USA,New York,New York,East,Office Supplies,Storage,Storage Model 357,140.97,8,0.2,-6.87
+ORD-10978,2024-01-01,Customer 139,Consumer,USA,Seattle,Washington,West,Office Supplies,Storage,Storage Model 850,672.02,9,0.1,160.22
+ORD-10979,2022-09-12,Customer 198,Corporate,USA,Seattle,Washington,West,Technology,Phones,Phones Model 508,304.99,1,0.3,40.63
+ORD-10980,2022-11-27,Customer 297,Consumer,USA,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Storage Model 799,324.52,10,0.3,22.63
+ORD-10981,2023-08-04,Customer 237,Home Office,USA,Seattle,Washington,West,Furniture,Tables,Tables Model 287,563.2,5,0.2,-16.11
+ORD-10982,2023-03-14,Customer 239,Corporate,USA,Atlanta,Georgia,South,Furniture,Chairs,Chairs Model 520,536.04,6,0.2,35.97
+ORD-10983,2023-09-22,Customer 155,Consumer,USA,Miami,Florida,South,Technology,Phones,Phones Model 694,958.34,7,0.0,229.01
+ORD-10984,2023-02-07,Customer 65,Corporate,USA,Houston,Texas,Central,Technology,Machines,Machines Model 786,901.91,5,0.0,215.41
+ORD-10985,2023-10-28,Customer 55,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 708,842.41,2,0.0,99.02
+ORD-10986,2023-11-22,Customer 262,Home Office,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 834,696.78,1,0.0,163.83
+ORD-10987,2023-11-23,Customer 80,Corporate,USA,New York,New York,East,Technology,Phones,Phones Model 743,570.81,8,0.1,31.9
+ORD-10988,2023-09-11,Customer 62,Home Office,USA,Houston,Texas,Central,Office Supplies,Storage,Storage Model 199,694.02,2,0.0,34.71
+ORD-10989,2022-05-05,Customer 154,Corporate,USA,Los Angeles,California,West,Furniture,Tables,Tables Model 595,44.16,9,0.3,-0.1
+ORD-10990,2023-10-14,Customer 12,Consumer,USA,Los Angeles,California,West,Technology,Accessories,Accessories Model 245,825.25,8,0.0,130.46
+ORD-10991,2022-10-24,Customer 52,Home Office,USA,Los Angeles,California,West,Technology,Machines,Machines Model 604,705.64,4,0.3,14.2
+ORD-10992,2023-03-12,Customer 76,Consumer,USA,Chicago,Illinois,Central,Office Supplies,Paper,Paper Model 390,703.7,2,0.3,2.97
+ORD-10993,2023-11-04,Customer 228,Consumer,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 463,30.8,5,0.0,6.51
+ORD-10994,2023-05-31,Customer 108,Corporate,USA,Seattle,Washington,West,Technology,Accessories,Accessories Model 823,291.37,3,0.2,21.9
+ORD-10995,2022-05-24,Customer 143,Home Office,USA,Miami,Florida,South,Furniture,Bookcases,Bookcases Model 410,168.37,10,0.2,10.92
+ORD-10996,2023-06-04,Customer 270,Corporate,USA,Miami,Florida,South,Technology,Accessories,Accessories Model 232,388.99,8,0.1,56.02
+ORD-10997,2022-06-12,Customer 119,Consumer,USA,Chicago,Illinois,Central,Technology,Machines,Machines Model 781,833.29,2,0.0,47.81
+ORD-10998,2022-06-28,Customer 197,Corporate,USA,Philadelphia,Pennsylvania,East,Technology,Accessories,Accessories Model 165,337.19,4,0.1,8.89
+ORD-10999,2023-09-14,Customer 16,Consumer,USA,Philadelphia,Pennsylvania,East,Furniture,Chairs,Chairs Model 428,849.87,2,0.3,77.2
+ORD-11000,2023-05-18,Customer 225,Home Office,USA,Philadelphia,Pennsylvania,East,Office Supplies,Binders,Binders Model 392,989.09,10,0.1,48.4
